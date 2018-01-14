@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="F:\lazarus\fpc\3.0.4\bin\i386-win32\fpc.exe" Date="1266908409"/>
+  <Params Value=" -MObjFPC -Scghi -WR -Os1 -g -gl -Xg -l -vewnhibq -FiF:\Algotun\Studio\lib\i386-win32 -FuF:\Algotun\Studio\ -FUF:\Algotun\Studio\lib\i386-win32\ reversepourayem.pas"/>
+</CONFIG>

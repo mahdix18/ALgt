@@ -1,0 +1,1140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="10"/>
+    <PathDelim Value="\"/>
+    <General>
+      <SessionStorage Value="InProjectDir"/>
+      <MainUnit Value="0"/>
+      <Title Value="Algorithme Studio"/>
+      <Scaled Value="True"/>
+      <UseAppBundle Value="False"/>
+      <ResourceType Value="res"/>
+      <UseXPManifest Value="True"/>
+      <XPManifest>
+        <DpiAware Value="Per-monitor"/>
+      </XPManifest>
+      <Icon Value="0"/>
+      <Resources Count="1000">
+        <Resource_0 FileName="icons\accept.png" Type="RCDATA" ResourceName="ACCEPT"/>
+        <Resource_1 FileName="icons\add.png" Type="RCDATA" ResourceName="ADD"/>
+        <Resource_2 FileName="icons\anchor.png" Type="RCDATA" ResourceName="ANCHOR"/>
+        <Resource_3 FileName="icons\application.png" Type="RCDATA" ResourceName="APPLICATION"/>
+        <Resource_4 FileName="icons\application_add.png" Type="RCDATA" ResourceName="APPLICATION_ADD"/>
+        <Resource_5 FileName="icons\application_cascade.png" Type="RCDATA" ResourceName="APPLICATION_CASCADE"/>
+        <Resource_6 FileName="icons\application_delete.png" Type="RCDATA" ResourceName="APPLICATION_DELETE"/>
+        <Resource_7 FileName="icons\application_double.png" Type="RCDATA" ResourceName="APPLICATION_DOUBLE"/>
+        <Resource_8 FileName="icons\application_edit.png" Type="RCDATA" ResourceName="APPLICATION_EDIT"/>
+        <Resource_9 FileName="icons\application_error.png" Type="RCDATA" ResourceName="APPLICATION_ERROR"/>
+        <Resource_10 FileName="icons\application_form.png" Type="RCDATA" ResourceName="APPLICATION_FORM"/>
+        <Resource_11 FileName="icons\application_form_add.png" Type="RCDATA" ResourceName="APPLICATION_FORM_ADD"/>
+        <Resource_12 FileName="icons\application_form_delete.png" Type="RCDATA" ResourceName="APPLICATION_FORM_DELETE"/>
+        <Resource_13 FileName="icons\application_form_edit.png" Type="RCDATA" ResourceName="APPLICATION_FORM_EDIT"/>
+        <Resource_14 FileName="icons\application_form_magnify.png" Type="RCDATA" ResourceName="APPLICATION_FORM_MAGNIFY"/>
+        <Resource_15 FileName="icons\application_get.png" Type="RCDATA" ResourceName="APPLICATION_GET"/>
+        <Resource_16 FileName="icons\application_go.png" Type="RCDATA" ResourceName="APPLICATION_GO"/>
+        <Resource_17 FileName="icons\application_home.png" Type="RCDATA" ResourceName="APPLICATION_HOME"/>
+        <Resource_18 FileName="icons\application_key.png" Type="RCDATA" ResourceName="APPLICATION_KEY"/>
+        <Resource_19 FileName="icons\application_lightning.png" Type="RCDATA" ResourceName="APPLICATION_LIGHTNING"/>
+        <Resource_20 FileName="icons\application_link.png" Type="RCDATA" ResourceName="APPLICATION_LINK"/>
+        <Resource_21 FileName="icons\application_osx.png" Type="RCDATA" ResourceName="APPLICATION_OSX"/>
+        <Resource_22 FileName="icons\application_osx_terminal.png" Type="RCDATA" ResourceName="APPLICATION_OSX_TERMINAL"/>
+        <Resource_23 FileName="icons\application_put.png" Type="RCDATA" ResourceName="APPLICATION_PUT"/>
+        <Resource_24 FileName="icons\application_side_boxes.png" Type="RCDATA" ResourceName="APPLICATION_SIDE_BOXES"/>
+        <Resource_25 FileName="icons\application_side_contract.png" Type="RCDATA" ResourceName="APPLICATION_SIDE_CONTRACT"/>
+        <Resource_26 FileName="icons\application_side_expand.png" Type="RCDATA" ResourceName="APPLICATION_SIDE_EXPAND"/>
+        <Resource_27 FileName="icons\application_side_list.png" Type="RCDATA" ResourceName="APPLICATION_SIDE_LIST"/>
+        <Resource_28 FileName="icons\application_side_tree.png" Type="RCDATA" ResourceName="APPLICATION_SIDE_TREE"/>
+        <Resource_29 FileName="icons\application_split.png" Type="RCDATA" ResourceName="APPLICATION_SPLIT"/>
+        <Resource_30 FileName="icons\application_tile_horizontal.png" Type="RCDATA" ResourceName="APPLICATION_TILE_HORIZONTAL"/>
+        <Resource_31 FileName="icons\application_tile_vertical.png" Type="RCDATA" ResourceName="APPLICATION_TILE_VERTICAL"/>
+        <Resource_32 FileName="icons\application_view_columns.png" Type="RCDATA" ResourceName="APPLICATION_VIEW_COLUMNS"/>
+        <Resource_33 FileName="icons\application_view_detail.png" Type="RCDATA" ResourceName="APPLICATION_VIEW_DETAIL"/>
+        <Resource_34 FileName="icons\application_view_gallery.png" Type="RCDATA" ResourceName="APPLICATION_VIEW_GALLERY"/>
+        <Resource_35 FileName="icons\application_view_icons.png" Type="RCDATA" ResourceName="APPLICATION_VIEW_ICONS"/>
+        <Resource_36 FileName="icons\application_view_list.png" Type="RCDATA" ResourceName="APPLICATION_VIEW_LIST"/>
+        <Resource_37 FileName="icons\application_view_tile.png" Type="RCDATA" ResourceName="APPLICATION_VIEW_TILE"/>
+        <Resource_38 FileName="icons\application_xp.png" Type="RCDATA" ResourceName="APPLICATION_XP"/>
+        <Resource_39 FileName="icons\application_xp_terminal.png" Type="RCDATA" ResourceName="APPLICATION_XP_TERMINAL"/>
+        <Resource_40 FileName="icons\arrow_branch.png" Type="RCDATA" ResourceName="ARROW_BRANCH"/>
+        <Resource_41 FileName="icons\arrow_divide.png" Type="RCDATA" ResourceName="ARROW_DIVIDE"/>
+        <Resource_42 FileName="icons\arrow_down.png" Type="RCDATA" ResourceName="ARROW_DOWN"/>
+        <Resource_43 FileName="icons\arrow_in.png" Type="RCDATA" ResourceName="ARROW_IN"/>
+        <Resource_44 FileName="icons\arrow_inout.png" Type="RCDATA" ResourceName="ARROW_INOUT"/>
+        <Resource_45 FileName="icons\arrow_join.png" Type="RCDATA" ResourceName="ARROW_JOIN"/>
+        <Resource_46 FileName="icons\arrow_left.png" Type="RCDATA" ResourceName="ARROW_LEFT"/>
+        <Resource_47 FileName="icons\arrow_merge.png" Type="RCDATA" ResourceName="ARROW_MERGE"/>
+        <Resource_48 FileName="icons\arrow_out.png" Type="RCDATA" ResourceName="ARROW_OUT"/>
+        <Resource_49 FileName="icons\arrow_redo.png" Type="RCDATA" ResourceName="ARROW_REDO"/>
+        <Resource_50 FileName="icons\arrow_refresh.png" Type="RCDATA" ResourceName="ARROW_REFRESH"/>
+        <Resource_51 FileName="icons\arrow_refresh_small.png" Type="RCDATA" ResourceName="ARROW_REFRESH_SMALL"/>
+        <Resource_52 FileName="icons\arrow_right.png" Type="RCDATA" ResourceName="ARROW_RIGHT"/>
+        <Resource_53 FileName="icons\arrow_rotate_anticlockwise.png" Type="RCDATA" ResourceName="ARROW_ROTATE_ANTICLOCKWISE"/>
+        <Resource_54 FileName="icons\arrow_rotate_clockwise.png" Type="RCDATA" ResourceName="ARROW_ROTATE_CLOCKWISE"/>
+        <Resource_55 FileName="icons\arrow_switch.png" Type="RCDATA" ResourceName="ARROW_SWITCH"/>
+        <Resource_56 FileName="icons\arrow_turn_left.png" Type="RCDATA" ResourceName="ARROW_TURN_LEFT"/>
+        <Resource_57 FileName="icons\arrow_turn_right.png" Type="RCDATA" ResourceName="ARROW_TURN_RIGHT"/>
+        <Resource_58 FileName="icons\arrow_undo.png" Type="RCDATA" ResourceName="ARROW_UNDO"/>
+        <Resource_59 FileName="icons\arrow_up.png" Type="RCDATA" ResourceName="ARROW_UP"/>
+        <Resource_60 FileName="icons\asterisk_orange.png" Type="RCDATA" ResourceName="ASTERISK_ORANGE"/>
+        <Resource_61 FileName="icons\asterisk_yellow.png" Type="RCDATA" ResourceName="ASTERISK_YELLOW"/>
+        <Resource_62 FileName="icons\attach.png" Type="RCDATA" ResourceName="ATTACH"/>
+        <Resource_63 FileName="icons\award_star_add.png" Type="RCDATA" ResourceName="AWARD_STAR_ADD"/>
+        <Resource_64 FileName="icons\award_star_bronze_1.png" Type="RCDATA" ResourceName="AWARD_STAR_BRONZE_1"/>
+        <Resource_65 FileName="icons\award_star_bronze_2.png" Type="RCDATA" ResourceName="AWARD_STAR_BRONZE_2"/>
+        <Resource_66 FileName="icons\award_star_bronze_3.png" Type="RCDATA" ResourceName="AWARD_STAR_BRONZE_3"/>
+        <Resource_67 FileName="icons\award_star_delete.png" Type="RCDATA" ResourceName="AWARD_STAR_DELETE"/>
+        <Resource_68 FileName="icons\award_star_gold_1.png" Type="RCDATA" ResourceName="AWARD_STAR_GOLD_1"/>
+        <Resource_69 FileName="icons\award_star_gold_2.png" Type="RCDATA" ResourceName="AWARD_STAR_GOLD_2"/>
+        <Resource_70 FileName="icons\award_star_gold_3.png" Type="RCDATA" ResourceName="AWARD_STAR_GOLD_3"/>
+        <Resource_71 FileName="icons\award_star_silver_1.png" Type="RCDATA" ResourceName="AWARD_STAR_SILVER_1"/>
+        <Resource_72 FileName="icons\award_star_silver_2.png" Type="RCDATA" ResourceName="AWARD_STAR_SILVER_2"/>
+        <Resource_73 FileName="icons\award_star_silver_3.png" Type="RCDATA" ResourceName="AWARD_STAR_SILVER_3"/>
+        <Resource_74 FileName="icons\basket.png" Type="RCDATA" ResourceName="BASKET"/>
+        <Resource_75 FileName="icons\basket_add.png" Type="RCDATA" ResourceName="BASKET_ADD"/>
+        <Resource_76 FileName="icons\basket_delete.png" Type="RCDATA" ResourceName="BASKET_DELETE"/>
+        <Resource_77 FileName="icons\basket_edit.png" Type="RCDATA" ResourceName="BASKET_EDIT"/>
+        <Resource_78 FileName="icons\basket_error.png" Type="RCDATA" ResourceName="BASKET_ERROR"/>
+        <Resource_79 FileName="icons\basket_go.png" Type="RCDATA" ResourceName="BASKET_GO"/>
+        <Resource_80 FileName="icons\basket_put.png" Type="RCDATA" ResourceName="BASKET_PUT"/>
+        <Resource_81 FileName="icons\basket_remove.png" Type="RCDATA" ResourceName="BASKET_REMOVE"/>
+        <Resource_82 FileName="icons\bell.png" Type="RCDATA" ResourceName="BELL"/>
+        <Resource_83 FileName="icons\bell_add.png" Type="RCDATA" ResourceName="BELL_ADD"/>
+        <Resource_84 FileName="icons\bell_delete.png" Type="RCDATA" ResourceName="BELL_DELETE"/>
+        <Resource_85 FileName="icons\bell_error.png" Type="RCDATA" ResourceName="BELL_ERROR"/>
+        <Resource_86 FileName="icons\bell_go.png" Type="RCDATA" ResourceName="BELL_GO"/>
+        <Resource_87 FileName="icons\bell_link.png" Type="RCDATA" ResourceName="BELL_LINK"/>
+        <Resource_88 FileName="icons\bin.png" Type="RCDATA" ResourceName="BIN"/>
+        <Resource_89 FileName="icons\bin_closed.png" Type="RCDATA" ResourceName="BIN_CLOSED"/>
+        <Resource_90 FileName="icons\bin_empty.png" Type="RCDATA" ResourceName="BIN_EMPTY"/>
+        <Resource_91 FileName="icons\bomb.png" Type="RCDATA" ResourceName="BOMB"/>
+        <Resource_92 FileName="icons\book.png" Type="RCDATA" ResourceName="BOOK"/>
+        <Resource_93 FileName="icons\book_add.png" Type="RCDATA" ResourceName="BOOK_ADD"/>
+        <Resource_94 FileName="icons\book_addresses.png" Type="RCDATA" ResourceName="BOOK_ADDRESSES"/>
+        <Resource_95 FileName="icons\book_delete.png" Type="RCDATA" ResourceName="BOOK_DELETE"/>
+        <Resource_96 FileName="icons\book_edit.png" Type="RCDATA" ResourceName="BOOK_EDIT"/>
+        <Resource_97 FileName="icons\book_error.png" Type="RCDATA" ResourceName="BOOK_ERROR"/>
+        <Resource_98 FileName="icons\book_go.png" Type="RCDATA" ResourceName="BOOK_GO"/>
+        <Resource_99 FileName="icons\book_key.png" Type="RCDATA" ResourceName="BOOK_KEY"/>
+        <Resource_100 FileName="icons\book_link.png" Type="RCDATA" ResourceName="BOOK_LINK"/>
+        <Resource_101 FileName="icons\book_next.png" Type="RCDATA" ResourceName="BOOK_NEXT"/>
+        <Resource_102 FileName="icons\book_open.png" Type="RCDATA" ResourceName="BOOK_OPEN"/>
+        <Resource_103 FileName="icons\book_previous.png" Type="RCDATA" ResourceName="BOOK_PREVIOUS"/>
+        <Resource_104 FileName="icons\box.png" Type="RCDATA" ResourceName="BOX"/>
+        <Resource_105 FileName="icons\brick.png" Type="RCDATA" ResourceName="BRICK"/>
+        <Resource_106 FileName="icons\brick_add.png" Type="RCDATA" ResourceName="BRICK_ADD"/>
+        <Resource_107 FileName="icons\brick_delete.png" Type="RCDATA" ResourceName="BRICK_DELETE"/>
+        <Resource_108 FileName="icons\brick_edit.png" Type="RCDATA" ResourceName="BRICK_EDIT"/>
+        <Resource_109 FileName="icons\brick_error.png" Type="RCDATA" ResourceName="BRICK_ERROR"/>
+        <Resource_110 FileName="icons\brick_go.png" Type="RCDATA" ResourceName="BRICK_GO"/>
+        <Resource_111 FileName="icons\brick_link.png" Type="RCDATA" ResourceName="BRICK_LINK"/>
+        <Resource_112 FileName="icons\bricks.png" Type="RCDATA" ResourceName="BRICKS"/>
+        <Resource_113 FileName="icons\briefcase.png" Type="RCDATA" ResourceName="BRIEFCASE"/>
+        <Resource_114 FileName="icons\bug.png" Type="RCDATA" ResourceName="BUG"/>
+        <Resource_115 FileName="icons\bug_add.png" Type="RCDATA" ResourceName="BUG_ADD"/>
+        <Resource_116 FileName="icons\bug_delete.png" Type="RCDATA" ResourceName="BUG_DELETE"/>
+        <Resource_117 FileName="icons\bug_edit.png" Type="RCDATA" ResourceName="BUG_EDIT"/>
+        <Resource_118 FileName="icons\bug_error.png" Type="RCDATA" ResourceName="BUG_ERROR"/>
+        <Resource_119 FileName="icons\bug_go.png" Type="RCDATA" ResourceName="BUG_GO"/>
+        <Resource_120 FileName="icons\bug_link.png" Type="RCDATA" ResourceName="BUG_LINK"/>
+        <Resource_121 FileName="icons\building.png" Type="RCDATA" ResourceName="BUILDING"/>
+        <Resource_122 FileName="icons\building_add.png" Type="RCDATA" ResourceName="BUILDING_ADD"/>
+        <Resource_123 FileName="icons\building_delete.png" Type="RCDATA" ResourceName="BUILDING_DELETE"/>
+        <Resource_124 FileName="icons\building_edit.png" Type="RCDATA" ResourceName="BUILDING_EDIT"/>
+        <Resource_125 FileName="icons\building_error.png" Type="RCDATA" ResourceName="BUILDING_ERROR"/>
+        <Resource_126 FileName="icons\building_go.png" Type="RCDATA" ResourceName="BUILDING_GO"/>
+        <Resource_127 FileName="icons\building_key.png" Type="RCDATA" ResourceName="BUILDING_KEY"/>
+        <Resource_128 FileName="icons\building_link.png" Type="RCDATA" ResourceName="BUILDING_LINK"/>
+        <Resource_129 FileName="icons\bullet_add.png" Type="RCDATA" ResourceName="BULLET_ADD"/>
+        <Resource_130 FileName="icons\bullet_arrow_bottom.png" Type="RCDATA" ResourceName="BULLET_ARROW_BOTTOM"/>
+        <Resource_131 FileName="icons\bullet_arrow_down.png" Type="RCDATA" ResourceName="BULLET_ARROW_DOWN"/>
+        <Resource_132 FileName="icons\bullet_arrow_top.png" Type="RCDATA" ResourceName="BULLET_ARROW_TOP"/>
+        <Resource_133 FileName="icons\bullet_arrow_up.png" Type="RCDATA" ResourceName="BULLET_ARROW_UP"/>
+        <Resource_134 FileName="icons\bullet_black.png" Type="RCDATA" ResourceName="BULLET_BLACK"/>
+        <Resource_135 FileName="icons\bullet_blue.png" Type="RCDATA" ResourceName="BULLET_BLUE"/>
+        <Resource_136 FileName="icons\bullet_delete.png" Type="RCDATA" ResourceName="BULLET_DELETE"/>
+        <Resource_137 FileName="icons\bullet_disk.png" Type="RCDATA" ResourceName="BULLET_DISK"/>
+        <Resource_138 FileName="icons\bullet_error.png" Type="RCDATA" ResourceName="BULLET_ERROR"/>
+        <Resource_139 FileName="icons\bullet_feed.png" Type="RCDATA" ResourceName="BULLET_FEED"/>
+        <Resource_140 FileName="icons\bullet_go.png" Type="RCDATA" ResourceName="BULLET_GO"/>
+        <Resource_141 FileName="icons\bullet_green.png" Type="RCDATA" ResourceName="BULLET_GREEN"/>
+        <Resource_142 FileName="icons\bullet_key.png" Type="RCDATA" ResourceName="BULLET_KEY"/>
+        <Resource_143 FileName="icons\bullet_orange.png" Type="RCDATA" ResourceName="BULLET_ORANGE"/>
+        <Resource_144 FileName="icons\bullet_picture.png" Type="RCDATA" ResourceName="BULLET_PICTURE"/>
+        <Resource_145 FileName="icons\bullet_pink.png" Type="RCDATA" ResourceName="BULLET_PINK"/>
+        <Resource_146 FileName="icons\bullet_purple.png" Type="RCDATA" ResourceName="BULLET_PURPLE"/>
+        <Resource_147 FileName="icons\bullet_red.png" Type="RCDATA" ResourceName="BULLET_RED"/>
+        <Resource_148 FileName="icons\bullet_star.png" Type="RCDATA" ResourceName="BULLET_STAR"/>
+        <Resource_149 FileName="icons\bullet_toggle_minus.png" Type="RCDATA" ResourceName="BULLET_TOGGLE_MINUS"/>
+        <Resource_150 FileName="icons\bullet_toggle_plus.png" Type="RCDATA" ResourceName="BULLET_TOGGLE_PLUS"/>
+        <Resource_151 FileName="icons\bullet_white.png" Type="RCDATA" ResourceName="BULLET_WHITE"/>
+        <Resource_152 FileName="icons\bullet_wrench.png" Type="RCDATA" ResourceName="BULLET_WRENCH"/>
+        <Resource_153 FileName="icons\bullet_yellow.png" Type="RCDATA" ResourceName="BULLET_YELLOW"/>
+        <Resource_154 FileName="icons\cake.png" Type="RCDATA" ResourceName="CAKE"/>
+        <Resource_155 FileName="icons\calculator.png" Type="RCDATA" ResourceName="CALCULATOR"/>
+        <Resource_156 FileName="icons\calculator_add.png" Type="RCDATA" ResourceName="CALCULATOR_ADD"/>
+        <Resource_157 FileName="icons\calculator_delete.png" Type="RCDATA" ResourceName="CALCULATOR_DELETE"/>
+        <Resource_158 FileName="icons\calculator_edit.png" Type="RCDATA" ResourceName="CALCULATOR_EDIT"/>
+        <Resource_159 FileName="icons\calculator_error.png" Type="RCDATA" ResourceName="CALCULATOR_ERROR"/>
+        <Resource_160 FileName="icons\calculator_link.png" Type="RCDATA" ResourceName="CALCULATOR_LINK"/>
+        <Resource_161 FileName="icons\calendar.png" Type="RCDATA" ResourceName="CALENDAR"/>
+        <Resource_162 FileName="icons\calendar_add.png" Type="RCDATA" ResourceName="CALENDAR_ADD"/>
+        <Resource_163 FileName="icons\calendar_delete.png" Type="RCDATA" ResourceName="CALENDAR_DELETE"/>
+        <Resource_164 FileName="icons\calendar_edit.png" Type="RCDATA" ResourceName="CALENDAR_EDIT"/>
+        <Resource_165 FileName="icons\calendar_link.png" Type="RCDATA" ResourceName="CALENDAR_LINK"/>
+        <Resource_166 FileName="icons\calendar_view_day.png" Type="RCDATA" ResourceName="CALENDAR_VIEW_DAY"/>
+        <Resource_167 FileName="icons\calendar_view_month.png" Type="RCDATA" ResourceName="CALENDAR_VIEW_MONTH"/>
+        <Resource_168 FileName="icons\calendar_view_week.png" Type="RCDATA" ResourceName="CALENDAR_VIEW_WEEK"/>
+        <Resource_169 FileName="icons\camera.png" Type="RCDATA" ResourceName="CAMERA"/>
+        <Resource_170 FileName="icons\camera_add.png" Type="RCDATA" ResourceName="CAMERA_ADD"/>
+        <Resource_171 FileName="icons\camera_delete.png" Type="RCDATA" ResourceName="CAMERA_DELETE"/>
+        <Resource_172 FileName="icons\camera_edit.png" Type="RCDATA" ResourceName="CAMERA_EDIT"/>
+        <Resource_173 FileName="icons\camera_error.png" Type="RCDATA" ResourceName="CAMERA_ERROR"/>
+        <Resource_174 FileName="icons\camera_go.png" Type="RCDATA" ResourceName="CAMERA_GO"/>
+        <Resource_175 FileName="icons\camera_link.png" Type="RCDATA" ResourceName="CAMERA_LINK"/>
+        <Resource_176 FileName="icons\camera_small.png" Type="RCDATA" ResourceName="CAMERA_SMALL"/>
+        <Resource_177 FileName="icons\cancel.png" Type="RCDATA" ResourceName="CANCEL"/>
+        <Resource_178 FileName="icons\car.png" Type="RCDATA" ResourceName="CAR"/>
+        <Resource_179 FileName="icons\car_add.png" Type="RCDATA" ResourceName="CAR_ADD"/>
+        <Resource_180 FileName="icons\car_delete.png" Type="RCDATA" ResourceName="CAR_DELETE"/>
+        <Resource_181 FileName="icons\cart.png" Type="RCDATA" ResourceName="CART"/>
+        <Resource_182 FileName="icons\cart_add.png" Type="RCDATA" ResourceName="CART_ADD"/>
+        <Resource_183 FileName="icons\cart_delete.png" Type="RCDATA" ResourceName="CART_DELETE"/>
+        <Resource_184 FileName="icons\cart_edit.png" Type="RCDATA" ResourceName="CART_EDIT"/>
+        <Resource_185 FileName="icons\cart_error.png" Type="RCDATA" ResourceName="CART_ERROR"/>
+        <Resource_186 FileName="icons\cart_go.png" Type="RCDATA" ResourceName="CART_GO"/>
+        <Resource_187 FileName="icons\cart_put.png" Type="RCDATA" ResourceName="CART_PUT"/>
+        <Resource_188 FileName="icons\cart_remove.png" Type="RCDATA" ResourceName="CART_REMOVE"/>
+        <Resource_189 FileName="icons\cd.png" Type="RCDATA" ResourceName="CD"/>
+        <Resource_190 FileName="icons\cd_add.png" Type="RCDATA" ResourceName="CD_ADD"/>
+        <Resource_191 FileName="icons\cd_burn.png" Type="RCDATA" ResourceName="CD_BURN"/>
+        <Resource_192 FileName="icons\cd_delete.png" Type="RCDATA" ResourceName="CD_DELETE"/>
+        <Resource_193 FileName="icons\cd_edit.png" Type="RCDATA" ResourceName="CD_EDIT"/>
+        <Resource_194 FileName="icons\cd_eject.png" Type="RCDATA" ResourceName="CD_EJECT"/>
+        <Resource_195 FileName="icons\cd_go.png" Type="RCDATA" ResourceName="CD_GO"/>
+        <Resource_196 FileName="icons\chart_bar.png" Type="RCDATA" ResourceName="CHART_BAR"/>
+        <Resource_197 FileName="icons\chart_bar_add.png" Type="RCDATA" ResourceName="CHART_BAR_ADD"/>
+        <Resource_198 FileName="icons\chart_bar_delete.png" Type="RCDATA" ResourceName="CHART_BAR_DELETE"/>
+        <Resource_199 FileName="icons\chart_bar_edit.png" Type="RCDATA" ResourceName="CHART_BAR_EDIT"/>
+        <Resource_200 FileName="icons\chart_bar_error.png" Type="RCDATA" ResourceName="CHART_BAR_ERROR"/>
+        <Resource_201 FileName="icons\chart_bar_link.png" Type="RCDATA" ResourceName="CHART_BAR_LINK"/>
+        <Resource_202 FileName="icons\chart_curve.png" Type="RCDATA" ResourceName="CHART_CURVE"/>
+        <Resource_203 FileName="icons\chart_curve_add.png" Type="RCDATA" ResourceName="CHART_CURVE_ADD"/>
+        <Resource_204 FileName="icons\chart_curve_delete.png" Type="RCDATA" ResourceName="CHART_CURVE_DELETE"/>
+        <Resource_205 FileName="icons\chart_curve_edit.png" Type="RCDATA" ResourceName="CHART_CURVE_EDIT"/>
+        <Resource_206 FileName="icons\chart_curve_error.png" Type="RCDATA" ResourceName="CHART_CURVE_ERROR"/>
+        <Resource_207 FileName="icons\chart_curve_go.png" Type="RCDATA" ResourceName="CHART_CURVE_GO"/>
+        <Resource_208 FileName="icons\chart_curve_link.png" Type="RCDATA" ResourceName="CHART_CURVE_LINK"/>
+        <Resource_209 FileName="icons\chart_line.png" Type="RCDATA" ResourceName="CHART_LINE"/>
+        <Resource_210 FileName="icons\chart_line_add.png" Type="RCDATA" ResourceName="CHART_LINE_ADD"/>
+        <Resource_211 FileName="icons\chart_line_delete.png" Type="RCDATA" ResourceName="CHART_LINE_DELETE"/>
+        <Resource_212 FileName="icons\chart_line_edit.png" Type="RCDATA" ResourceName="CHART_LINE_EDIT"/>
+        <Resource_213 FileName="icons\chart_line_error.png" Type="RCDATA" ResourceName="CHART_LINE_ERROR"/>
+        <Resource_214 FileName="icons\chart_line_link.png" Type="RCDATA" ResourceName="CHART_LINE_LINK"/>
+        <Resource_215 FileName="icons\chart_organisation.png" Type="RCDATA" ResourceName="CHART_ORGANISATION"/>
+        <Resource_216 FileName="icons\chart_organisation_add.png" Type="RCDATA" ResourceName="CHART_ORGANISATION_ADD"/>
+        <Resource_217 FileName="icons\chart_organisation_delete.png" Type="RCDATA" ResourceName="CHART_ORGANISATION_DELETE"/>
+        <Resource_218 FileName="icons\chart_pie.png" Type="RCDATA" ResourceName="CHART_PIE"/>
+        <Resource_219 FileName="icons\chart_pie_add.png" Type="RCDATA" ResourceName="CHART_PIE_ADD"/>
+        <Resource_220 FileName="icons\chart_pie_delete.png" Type="RCDATA" ResourceName="CHART_PIE_DELETE"/>
+        <Resource_221 FileName="icons\chart_pie_edit.png" Type="RCDATA" ResourceName="CHART_PIE_EDIT"/>
+        <Resource_222 FileName="icons\chart_pie_error.png" Type="RCDATA" ResourceName="CHART_PIE_ERROR"/>
+        <Resource_223 FileName="icons\chart_pie_link.png" Type="RCDATA" ResourceName="CHART_PIE_LINK"/>
+        <Resource_224 FileName="icons\clock.png" Type="RCDATA" ResourceName="CLOCK"/>
+        <Resource_225 FileName="icons\clock_add.png" Type="RCDATA" ResourceName="CLOCK_ADD"/>
+        <Resource_226 FileName="icons\clock_delete.png" Type="RCDATA" ResourceName="CLOCK_DELETE"/>
+        <Resource_227 FileName="icons\clock_edit.png" Type="RCDATA" ResourceName="CLOCK_EDIT"/>
+        <Resource_228 FileName="icons\clock_error.png" Type="RCDATA" ResourceName="CLOCK_ERROR"/>
+        <Resource_229 FileName="icons\clock_go.png" Type="RCDATA" ResourceName="CLOCK_GO"/>
+        <Resource_230 FileName="icons\clock_link.png" Type="RCDATA" ResourceName="CLOCK_LINK"/>
+        <Resource_231 FileName="icons\clock_pause.png" Type="RCDATA" ResourceName="CLOCK_PAUSE"/>
+        <Resource_232 FileName="icons\clock_play.png" Type="RCDATA" ResourceName="CLOCK_PLAY"/>
+        <Resource_233 FileName="icons\clock_red.png" Type="RCDATA" ResourceName="CLOCK_RED"/>
+        <Resource_234 FileName="icons\clock_stop.png" Type="RCDATA" ResourceName="CLOCK_STOP"/>
+        <Resource_235 FileName="icons\cog.png" Type="RCDATA" ResourceName="COG"/>
+        <Resource_236 FileName="icons\cog_add.png" Type="RCDATA" ResourceName="COG_ADD"/>
+        <Resource_237 FileName="icons\cog_delete.png" Type="RCDATA" ResourceName="COG_DELETE"/>
+        <Resource_238 FileName="icons\cog_edit.png" Type="RCDATA" ResourceName="COG_EDIT"/>
+        <Resource_239 FileName="icons\cog_error.png" Type="RCDATA" ResourceName="COG_ERROR"/>
+        <Resource_240 FileName="icons\cog_go.png" Type="RCDATA" ResourceName="COG_GO"/>
+        <Resource_241 FileName="icons\coins.png" Type="RCDATA" ResourceName="COINS"/>
+        <Resource_242 FileName="icons\coins_add.png" Type="RCDATA" ResourceName="COINS_ADD"/>
+        <Resource_243 FileName="icons\coins_delete.png" Type="RCDATA" ResourceName="COINS_DELETE"/>
+        <Resource_244 FileName="icons\color_swatch.png" Type="RCDATA" ResourceName="COLOR_SWATCH"/>
+        <Resource_245 FileName="icons\color_wheel.png" Type="RCDATA" ResourceName="COLOR_WHEEL"/>
+        <Resource_246 FileName="icons\comment.png" Type="RCDATA" ResourceName="COMMENT"/>
+        <Resource_247 FileName="icons\comment_add.png" Type="RCDATA" ResourceName="COMMENT_ADD"/>
+        <Resource_248 FileName="icons\comment_delete.png" Type="RCDATA" ResourceName="COMMENT_DELETE"/>
+        <Resource_249 FileName="icons\comment_edit.png" Type="RCDATA" ResourceName="COMMENT_EDIT"/>
+        <Resource_250 FileName="icons\comments.png" Type="RCDATA" ResourceName="COMMENTS"/>
+        <Resource_251 FileName="icons\comments_add.png" Type="RCDATA" ResourceName="COMMENTS_ADD"/>
+        <Resource_252 FileName="icons\comments_delete.png" Type="RCDATA" ResourceName="COMMENTS_DELETE"/>
+        <Resource_253 FileName="icons\compress.png" Type="RCDATA" ResourceName="COMPRESS"/>
+        <Resource_254 FileName="icons\computer.png" Type="RCDATA" ResourceName="COMPUTER"/>
+        <Resource_255 FileName="icons\computer_add.png" Type="RCDATA" ResourceName="COMPUTER_ADD"/>
+        <Resource_256 FileName="icons\computer_delete.png" Type="RCDATA" ResourceName="COMPUTER_DELETE"/>
+        <Resource_257 FileName="icons\computer_edit.png" Type="RCDATA" ResourceName="COMPUTER_EDIT"/>
+        <Resource_258 FileName="icons\computer_error.png" Type="RCDATA" ResourceName="COMPUTER_ERROR"/>
+        <Resource_259 FileName="icons\computer_go.png" Type="RCDATA" ResourceName="COMPUTER_GO"/>
+        <Resource_260 FileName="icons\computer_key.png" Type="RCDATA" ResourceName="COMPUTER_KEY"/>
+        <Resource_261 FileName="icons\computer_link.png" Type="RCDATA" ResourceName="COMPUTER_LINK"/>
+        <Resource_262 FileName="icons\connect.png" Type="RCDATA" ResourceName="CONNECT"/>
+        <Resource_263 FileName="icons\contrast.png" Type="RCDATA" ResourceName="CONTRAST"/>
+        <Resource_264 FileName="icons\contrast_decrease.png" Type="RCDATA" ResourceName="CONTRAST_DECREASE"/>
+        <Resource_265 FileName="icons\contrast_high.png" Type="RCDATA" ResourceName="CONTRAST_HIGH"/>
+        <Resource_266 FileName="icons\contrast_increase.png" Type="RCDATA" ResourceName="CONTRAST_INCREASE"/>
+        <Resource_267 FileName="icons\contrast_low.png" Type="RCDATA" ResourceName="CONTRAST_LOW"/>
+        <Resource_268 FileName="icons\control_eject.png" Type="RCDATA" ResourceName="CONTROL_EJECT"/>
+        <Resource_269 FileName="icons\control_eject_blue.png" Type="RCDATA" ResourceName="CONTROL_EJECT_BLUE"/>
+        <Resource_270 FileName="icons\control_end.png" Type="RCDATA" ResourceName="CONTROL_END"/>
+        <Resource_271 FileName="icons\control_end_blue.png" Type="RCDATA" ResourceName="CONTROL_END_BLUE"/>
+        <Resource_272 FileName="icons\control_equalizer.png" Type="RCDATA" ResourceName="CONTROL_EQUALIZER"/>
+        <Resource_273 FileName="icons\control_equalizer_blue.png" Type="RCDATA" ResourceName="CONTROL_EQUALIZER_BLUE"/>
+        <Resource_274 FileName="icons\control_fastforward.png" Type="RCDATA" ResourceName="CONTROL_FASTFORWARD"/>
+        <Resource_275 FileName="icons\control_fastforward_blue.png" Type="RCDATA" ResourceName="CONTROL_FASTFORWARD_BLUE"/>
+        <Resource_276 FileName="icons\control_pause.png" Type="RCDATA" ResourceName="CONTROL_PAUSE"/>
+        <Resource_277 FileName="icons\control_pause_blue.png" Type="RCDATA" ResourceName="CONTROL_PAUSE_BLUE"/>
+        <Resource_278 FileName="icons\control_play.png" Type="RCDATA" ResourceName="CONTROL_PLAY"/>
+        <Resource_279 FileName="icons\control_play_blue.png" Type="RCDATA" ResourceName="CONTROL_PLAY_BLUE"/>
+        <Resource_280 FileName="icons\control_repeat.png" Type="RCDATA" ResourceName="CONTROL_REPEAT"/>
+        <Resource_281 FileName="icons\control_repeat_blue.png" Type="RCDATA" ResourceName="CONTROL_REPEAT_BLUE"/>
+        <Resource_282 FileName="icons\control_rewind.png" Type="RCDATA" ResourceName="CONTROL_REWIND"/>
+        <Resource_283 FileName="icons\control_rewind_blue.png" Type="RCDATA" ResourceName="CONTROL_REWIND_BLUE"/>
+        <Resource_284 FileName="icons\control_start.png" Type="RCDATA" ResourceName="CONTROL_START"/>
+        <Resource_285 FileName="icons\control_start_blue.png" Type="RCDATA" ResourceName="CONTROL_START_BLUE"/>
+        <Resource_286 FileName="icons\control_stop.png" Type="RCDATA" ResourceName="CONTROL_STOP"/>
+        <Resource_287 FileName="icons\control_stop_blue.png" Type="RCDATA" ResourceName="CONTROL_STOP_BLUE"/>
+        <Resource_288 FileName="icons\controller.png" Type="RCDATA" ResourceName="CONTROLLER"/>
+        <Resource_289 FileName="icons\controller_add.png" Type="RCDATA" ResourceName="CONTROLLER_ADD"/>
+        <Resource_290 FileName="icons\controller_delete.png" Type="RCDATA" ResourceName="CONTROLLER_DELETE"/>
+        <Resource_291 FileName="icons\controller_error.png" Type="RCDATA" ResourceName="CONTROLLER_ERROR"/>
+        <Resource_292 FileName="icons\creditcards.png" Type="RCDATA" ResourceName="CREDITCARDS"/>
+        <Resource_293 FileName="icons\cross.png" Type="RCDATA" ResourceName="CROSS"/>
+        <Resource_294 FileName="icons\css.png" Type="RCDATA" ResourceName="CSS"/>
+        <Resource_295 FileName="icons\css_add.png" Type="RCDATA" ResourceName="CSS_ADD"/>
+        <Resource_296 FileName="icons\css_delete.png" Type="RCDATA" ResourceName="CSS_DELETE"/>
+        <Resource_297 FileName="icons\css_go.png" Type="RCDATA" ResourceName="CSS_GO"/>
+        <Resource_298 FileName="icons\css_valid.png" Type="RCDATA" ResourceName="CSS_VALID"/>
+        <Resource_299 FileName="icons\cup.png" Type="RCDATA" ResourceName="CUP"/>
+        <Resource_300 FileName="icons\cup_add.png" Type="RCDATA" ResourceName="CUP_ADD"/>
+        <Resource_301 FileName="icons\cup_delete.png" Type="RCDATA" ResourceName="CUP_DELETE"/>
+        <Resource_302 FileName="icons\cup_edit.png" Type="RCDATA" ResourceName="CUP_EDIT"/>
+        <Resource_303 FileName="icons\cup_error.png" Type="RCDATA" ResourceName="CUP_ERROR"/>
+        <Resource_304 FileName="icons\cup_go.png" Type="RCDATA" ResourceName="CUP_GO"/>
+        <Resource_305 FileName="icons\cup_key.png" Type="RCDATA" ResourceName="CUP_KEY"/>
+        <Resource_306 FileName="icons\cup_link.png" Type="RCDATA" ResourceName="CUP_LINK"/>
+        <Resource_307 FileName="icons\cursor.png" Type="RCDATA" ResourceName="CURSOR"/>
+        <Resource_308 FileName="icons\cut.png" Type="RCDATA" ResourceName="CUT"/>
+        <Resource_309 FileName="icons\cut_red.png" Type="RCDATA" ResourceName="CUT_RED"/>
+        <Resource_310 FileName="icons\database.png" Type="RCDATA" ResourceName="DATABASE"/>
+        <Resource_311 FileName="icons\database_add.png" Type="RCDATA" ResourceName="DATABASE_ADD"/>
+        <Resource_312 FileName="icons\database_connect.png" Type="RCDATA" ResourceName="DATABASE_CONNECT"/>
+        <Resource_313 FileName="icons\database_delete.png" Type="RCDATA" ResourceName="DATABASE_DELETE"/>
+        <Resource_314 FileName="icons\database_edit.png" Type="RCDATA" ResourceName="DATABASE_EDIT"/>
+        <Resource_315 FileName="icons\database_error.png" Type="RCDATA" ResourceName="DATABASE_ERROR"/>
+        <Resource_316 FileName="icons\database_gear.png" Type="RCDATA" ResourceName="DATABASE_GEAR"/>
+        <Resource_317 FileName="icons\database_go.png" Type="RCDATA" ResourceName="DATABASE_GO"/>
+        <Resource_318 FileName="icons\database_key.png" Type="RCDATA" ResourceName="DATABASE_KEY"/>
+        <Resource_319 FileName="icons\database_lightning.png" Type="RCDATA" ResourceName="DATABASE_LIGHTNING"/>
+        <Resource_320 FileName="icons\database_link.png" Type="RCDATA" ResourceName="DATABASE_LINK"/>
+        <Resource_321 FileName="icons\database_refresh.png" Type="RCDATA" ResourceName="DATABASE_REFRESH"/>
+        <Resource_322 FileName="icons\database_save.png" Type="RCDATA" ResourceName="DATABASE_SAVE"/>
+        <Resource_323 FileName="icons\database_table.png" Type="RCDATA" ResourceName="DATABASE_TABLE"/>
+        <Resource_324 FileName="icons\date.png" Type="RCDATA" ResourceName="DATE"/>
+        <Resource_325 FileName="icons\date_add.png" Type="RCDATA" ResourceName="DATE_ADD"/>
+        <Resource_326 FileName="icons\date_delete.png" Type="RCDATA" ResourceName="DATE_DELETE"/>
+        <Resource_327 FileName="icons\date_edit.png" Type="RCDATA" ResourceName="DATE_EDIT"/>
+        <Resource_328 FileName="icons\date_error.png" Type="RCDATA" ResourceName="DATE_ERROR"/>
+        <Resource_329 FileName="icons\date_go.png" Type="RCDATA" ResourceName="DATE_GO"/>
+        <Resource_330 FileName="icons\date_link.png" Type="RCDATA" ResourceName="DATE_LINK"/>
+        <Resource_331 FileName="icons\date_magnify.png" Type="RCDATA" ResourceName="DATE_MAGNIFY"/>
+        <Resource_332 FileName="icons\date_next.png" Type="RCDATA" ResourceName="DATE_NEXT"/>
+        <Resource_333 FileName="icons\date_previous.png" Type="RCDATA" ResourceName="DATE_PREVIOUS"/>
+        <Resource_334 FileName="icons\delete.png" Type="RCDATA" ResourceName="DELETE"/>
+        <Resource_335 FileName="icons\disconnect.png" Type="RCDATA" ResourceName="DISCONNECT"/>
+        <Resource_336 FileName="icons\disk.png" Type="RCDATA" ResourceName="DISK"/>
+        <Resource_337 FileName="icons\disk_multiple.png" Type="RCDATA" ResourceName="DISK_MULTIPLE"/>
+        <Resource_338 FileName="icons\door.png" Type="RCDATA" ResourceName="DOOR"/>
+        <Resource_339 FileName="icons\door_in.png" Type="RCDATA" ResourceName="DOOR_IN"/>
+        <Resource_340 FileName="icons\door_open.png" Type="RCDATA" ResourceName="DOOR_OPEN"/>
+        <Resource_341 FileName="icons\door_out.png" Type="RCDATA" ResourceName="DOOR_OUT"/>
+        <Resource_342 FileName="icons\drink.png" Type="RCDATA" ResourceName="DRINK"/>
+        <Resource_343 FileName="icons\drink_empty.png" Type="RCDATA" ResourceName="DRINK_EMPTY"/>
+        <Resource_344 FileName="icons\drive.png" Type="RCDATA" ResourceName="DRIVE"/>
+        <Resource_345 FileName="icons\drive_add.png" Type="RCDATA" ResourceName="DRIVE_ADD"/>
+        <Resource_346 FileName="icons\drive_burn.png" Type="RCDATA" ResourceName="DRIVE_BURN"/>
+        <Resource_347 FileName="icons\drive_cd.png" Type="RCDATA" ResourceName="DRIVE_CD"/>
+        <Resource_348 FileName="icons\drive_cd_empty.png" Type="RCDATA" ResourceName="DRIVE_CD_EMPTY"/>
+        <Resource_349 FileName="icons\drive_delete.png" Type="RCDATA" ResourceName="DRIVE_DELETE"/>
+        <Resource_350 FileName="icons\drive_disk.png" Type="RCDATA" ResourceName="DRIVE_DISK"/>
+        <Resource_351 FileName="icons\drive_edit.png" Type="RCDATA" ResourceName="DRIVE_EDIT"/>
+        <Resource_352 FileName="icons\drive_error.png" Type="RCDATA" ResourceName="DRIVE_ERROR"/>
+        <Resource_353 FileName="icons\drive_go.png" Type="RCDATA" ResourceName="DRIVE_GO"/>
+        <Resource_354 FileName="icons\drive_key.png" Type="RCDATA" ResourceName="DRIVE_KEY"/>
+        <Resource_355 FileName="icons\drive_link.png" Type="RCDATA" ResourceName="DRIVE_LINK"/>
+        <Resource_356 FileName="icons\drive_magnify.png" Type="RCDATA" ResourceName="DRIVE_MAGNIFY"/>
+        <Resource_357 FileName="icons\drive_network.png" Type="RCDATA" ResourceName="DRIVE_NETWORK"/>
+        <Resource_358 FileName="icons\drive_rename.png" Type="RCDATA" ResourceName="DRIVE_RENAME"/>
+        <Resource_359 FileName="icons\drive_user.png" Type="RCDATA" ResourceName="DRIVE_USER"/>
+        <Resource_360 FileName="icons\drive_web.png" Type="RCDATA" ResourceName="DRIVE_WEB"/>
+        <Resource_361 FileName="icons\dvd.png" Type="RCDATA" ResourceName="DVD"/>
+        <Resource_362 FileName="icons\dvd_add.png" Type="RCDATA" ResourceName="DVD_ADD"/>
+        <Resource_363 FileName="icons\dvd_delete.png" Type="RCDATA" ResourceName="DVD_DELETE"/>
+        <Resource_364 FileName="icons\dvd_edit.png" Type="RCDATA" ResourceName="DVD_EDIT"/>
+        <Resource_365 FileName="icons\dvd_error.png" Type="RCDATA" ResourceName="DVD_ERROR"/>
+        <Resource_366 FileName="icons\dvd_go.png" Type="RCDATA" ResourceName="DVD_GO"/>
+        <Resource_367 FileName="icons\dvd_key.png" Type="RCDATA" ResourceName="DVD_KEY"/>
+        <Resource_368 FileName="icons\dvd_link.png" Type="RCDATA" ResourceName="DVD_LINK"/>
+        <Resource_369 FileName="icons\email.png" Type="RCDATA" ResourceName="EMAIL"/>
+        <Resource_370 FileName="icons\email_add.png" Type="RCDATA" ResourceName="EMAIL_ADD"/>
+        <Resource_371 FileName="icons\email_attach.png" Type="RCDATA" ResourceName="EMAIL_ATTACH"/>
+        <Resource_372 FileName="icons\email_delete.png" Type="RCDATA" ResourceName="EMAIL_DELETE"/>
+        <Resource_373 FileName="icons\email_edit.png" Type="RCDATA" ResourceName="EMAIL_EDIT"/>
+        <Resource_374 FileName="icons\email_error.png" Type="RCDATA" ResourceName="EMAIL_ERROR"/>
+        <Resource_375 FileName="icons\email_go.png" Type="RCDATA" ResourceName="EMAIL_GO"/>
+        <Resource_376 FileName="icons\email_link.png" Type="RCDATA" ResourceName="EMAIL_LINK"/>
+        <Resource_377 FileName="icons\email_open.png" Type="RCDATA" ResourceName="EMAIL_OPEN"/>
+        <Resource_378 FileName="icons\email_open_image.png" Type="RCDATA" ResourceName="EMAIL_OPEN_IMAGE"/>
+        <Resource_379 FileName="icons\emoticon_evilgrin.png" Type="RCDATA" ResourceName="EMOTICON_EVILGRIN"/>
+        <Resource_380 FileName="icons\emoticon_grin.png" Type="RCDATA" ResourceName="EMOTICON_GRIN"/>
+        <Resource_381 FileName="icons\emoticon_happy.png" Type="RCDATA" ResourceName="EMOTICON_HAPPY"/>
+        <Resource_382 FileName="icons\emoticon_smile.png" Type="RCDATA" ResourceName="EMOTICON_SMILE"/>
+        <Resource_383 FileName="icons\emoticon_surprised.png" Type="RCDATA" ResourceName="EMOTICON_SURPRISED"/>
+        <Resource_384 FileName="icons\emoticon_tongue.png" Type="RCDATA" ResourceName="EMOTICON_TONGUE"/>
+        <Resource_385 FileName="icons\emoticon_unhappy.png" Type="RCDATA" ResourceName="EMOTICON_UNHAPPY"/>
+        <Resource_386 FileName="icons\emoticon_waii.png" Type="RCDATA" ResourceName="EMOTICON_WAII"/>
+        <Resource_387 FileName="icons\emoticon_wink.png" Type="RCDATA" ResourceName="EMOTICON_WINK"/>
+        <Resource_388 FileName="icons\error.png" Type="RCDATA" ResourceName="ERROR"/>
+        <Resource_389 FileName="icons\error_add.png" Type="RCDATA" ResourceName="ERROR_ADD"/>
+        <Resource_390 FileName="icons\error_delete.png" Type="RCDATA" ResourceName="ERROR_DELETE"/>
+        <Resource_391 FileName="icons\error_go.png" Type="RCDATA" ResourceName="ERROR_GO"/>
+        <Resource_392 FileName="icons\exclamation.png" Type="RCDATA" ResourceName="EXCLAMATION"/>
+        <Resource_393 FileName="icons\eye.png" Type="RCDATA" ResourceName="EYE"/>
+        <Resource_394 FileName="icons\feed.png" Type="RCDATA" ResourceName="FEED"/>
+        <Resource_395 FileName="icons\feed_add.png" Type="RCDATA" ResourceName="FEED_ADD"/>
+        <Resource_396 FileName="icons\feed_delete.png" Type="RCDATA" ResourceName="FEED_DELETE"/>
+        <Resource_397 FileName="icons\feed_disk.png" Type="RCDATA" ResourceName="FEED_DISK"/>
+        <Resource_398 FileName="icons\feed_edit.png" Type="RCDATA" ResourceName="FEED_EDIT"/>
+        <Resource_399 FileName="icons\feed_error.png" Type="RCDATA" ResourceName="FEED_ERROR"/>
+        <Resource_400 FileName="icons\feed_go.png" Type="RCDATA" ResourceName="FEED_GO"/>
+        <Resource_401 FileName="icons\feed_key.png" Type="RCDATA" ResourceName="FEED_KEY"/>
+        <Resource_402 FileName="icons\feed_link.png" Type="RCDATA" ResourceName="FEED_LINK"/>
+        <Resource_403 FileName="icons\feed_magnify.png" Type="RCDATA" ResourceName="FEED_MAGNIFY"/>
+        <Resource_404 FileName="icons\female.png" Type="RCDATA" ResourceName="FEMALE"/>
+        <Resource_405 FileName="icons\film.png" Type="RCDATA" ResourceName="FILM"/>
+        <Resource_406 FileName="icons\film_add.png" Type="RCDATA" ResourceName="FILM_ADD"/>
+        <Resource_407 FileName="icons\film_delete.png" Type="RCDATA" ResourceName="FILM_DELETE"/>
+        <Resource_408 FileName="icons\film_edit.png" Type="RCDATA" ResourceName="FILM_EDIT"/>
+        <Resource_409 FileName="icons\film_error.png" Type="RCDATA" ResourceName="FILM_ERROR"/>
+        <Resource_410 FileName="icons\film_go.png" Type="RCDATA" ResourceName="FILM_GO"/>
+        <Resource_411 FileName="icons\film_key.png" Type="RCDATA" ResourceName="FILM_KEY"/>
+        <Resource_412 FileName="icons\film_link.png" Type="RCDATA" ResourceName="FILM_LINK"/>
+        <Resource_413 FileName="icons\film_save.png" Type="RCDATA" ResourceName="FILM_SAVE"/>
+        <Resource_414 FileName="icons\find.png" Type="RCDATA" ResourceName="FIND"/>
+        <Resource_415 FileName="icons\flag_blue.png" Type="RCDATA" ResourceName="FLAG_BLUE"/>
+        <Resource_416 FileName="icons\flag_green.png" Type="RCDATA" ResourceName="FLAG_GREEN"/>
+        <Resource_417 FileName="icons\flag_orange.png" Type="RCDATA" ResourceName="FLAG_ORANGE"/>
+        <Resource_418 FileName="icons\flag_pink.png" Type="RCDATA" ResourceName="FLAG_PINK"/>
+        <Resource_419 FileName="icons\flag_purple.png" Type="RCDATA" ResourceName="FLAG_PURPLE"/>
+        <Resource_420 FileName="icons\flag_red.png" Type="RCDATA" ResourceName="FLAG_RED"/>
+        <Resource_421 FileName="icons\flag_yellow.png" Type="RCDATA" ResourceName="FLAG_YELLOW"/>
+        <Resource_422 FileName="icons\folder.png" Type="RCDATA" ResourceName="FOLDER"/>
+        <Resource_423 FileName="icons\folder_add.png" Type="RCDATA" ResourceName="FOLDER_ADD"/>
+        <Resource_424 FileName="icons\folder_bell.png" Type="RCDATA" ResourceName="FOLDER_BELL"/>
+        <Resource_425 FileName="icons\folder_brick.png" Type="RCDATA" ResourceName="FOLDER_BRICK"/>
+        <Resource_426 FileName="icons\folder_bug.png" Type="RCDATA" ResourceName="FOLDER_BUG"/>
+        <Resource_427 FileName="icons\folder_camera.png" Type="RCDATA" ResourceName="FOLDER_CAMERA"/>
+        <Resource_428 FileName="icons\folder_database.png" Type="RCDATA" ResourceName="FOLDER_DATABASE"/>
+        <Resource_429 FileName="icons\folder_delete.png" Type="RCDATA" ResourceName="FOLDER_DELETE"/>
+        <Resource_430 FileName="icons\folder_edit.png" Type="RCDATA" ResourceName="FOLDER_EDIT"/>
+        <Resource_431 FileName="icons\folder_error.png" Type="RCDATA" ResourceName="FOLDER_ERROR"/>
+        <Resource_432 FileName="icons\folder_explore.png" Type="RCDATA" ResourceName="FOLDER_EXPLORE"/>
+        <Resource_433 FileName="icons\folder_feed.png" Type="RCDATA" ResourceName="FOLDER_FEED"/>
+        <Resource_434 FileName="icons\folder_find.png" Type="RCDATA" ResourceName="FOLDER_FIND"/>
+        <Resource_435 FileName="icons\folder_go.png" Type="RCDATA" ResourceName="FOLDER_GO"/>
+        <Resource_436 FileName="icons\folder_heart.png" Type="RCDATA" ResourceName="FOLDER_HEART"/>
+        <Resource_437 FileName="icons\folder_image.png" Type="RCDATA" ResourceName="FOLDER_IMAGE"/>
+        <Resource_438 FileName="icons\folder_key.png" Type="RCDATA" ResourceName="FOLDER_KEY"/>
+        <Resource_439 FileName="icons\folder_lightbulb.png" Type="RCDATA" ResourceName="FOLDER_LIGHTBULB"/>
+        <Resource_440 FileName="icons\folder_link.png" Type="RCDATA" ResourceName="FOLDER_LINK"/>
+        <Resource_441 FileName="icons\folder_magnify.png" Type="RCDATA" ResourceName="FOLDER_MAGNIFY"/>
+        <Resource_442 FileName="icons\folder_page.png" Type="RCDATA" ResourceName="FOLDER_PAGE"/>
+        <Resource_443 FileName="icons\folder_page_white.png" Type="RCDATA" ResourceName="FOLDER_PAGE_WHITE"/>
+        <Resource_444 FileName="icons\folder_palette.png" Type="RCDATA" ResourceName="FOLDER_PALETTE"/>
+        <Resource_445 FileName="icons\folder_picture.png" Type="RCDATA" ResourceName="FOLDER_PICTURE"/>
+        <Resource_446 FileName="icons\folder_star.png" Type="RCDATA" ResourceName="FOLDER_STAR"/>
+        <Resource_447 FileName="icons\folder_table.png" Type="RCDATA" ResourceName="FOLDER_TABLE"/>
+        <Resource_448 FileName="icons\folder_user.png" Type="RCDATA" ResourceName="FOLDER_USER"/>
+        <Resource_449 FileName="icons\folder_wrench.png" Type="RCDATA" ResourceName="FOLDER_WRENCH"/>
+        <Resource_450 FileName="icons\font.png" Type="RCDATA" ResourceName="FONT"/>
+        <Resource_451 FileName="icons\font_add.png" Type="RCDATA" ResourceName="FONT_ADD"/>
+        <Resource_452 FileName="icons\font_delete.png" Type="RCDATA" ResourceName="FONT_DELETE"/>
+        <Resource_453 FileName="icons\font_go.png" Type="RCDATA" ResourceName="FONT_GO"/>
+        <Resource_454 FileName="icons\group.png" Type="RCDATA" ResourceName="GROUP"/>
+        <Resource_455 FileName="icons\group_add.png" Type="RCDATA" ResourceName="GROUP_ADD"/>
+        <Resource_456 FileName="icons\group_delete.png" Type="RCDATA" ResourceName="GROUP_DELETE"/>
+        <Resource_457 FileName="icons\group_edit.png" Type="RCDATA" ResourceName="GROUP_EDIT"/>
+        <Resource_458 FileName="icons\group_error.png" Type="RCDATA" ResourceName="GROUP_ERROR"/>
+        <Resource_459 FileName="icons\group_gear.png" Type="RCDATA" ResourceName="GROUP_GEAR"/>
+        <Resource_460 FileName="icons\group_go.png" Type="RCDATA" ResourceName="GROUP_GO"/>
+        <Resource_461 FileName="icons\group_key.png" Type="RCDATA" ResourceName="GROUP_KEY"/>
+        <Resource_462 FileName="icons\group_link.png" Type="RCDATA" ResourceName="GROUP_LINK"/>
+        <Resource_463 FileName="icons\heart.png" Type="RCDATA" ResourceName="HEART"/>
+        <Resource_464 FileName="icons\heart_add.png" Type="RCDATA" ResourceName="HEART_ADD"/>
+        <Resource_465 FileName="icons\heart_delete.png" Type="RCDATA" ResourceName="HEART_DELETE"/>
+        <Resource_466 FileName="icons\help.png" Type="RCDATA" ResourceName="HELP"/>
+        <Resource_467 FileName="icons\hourglass.png" Type="RCDATA" ResourceName="HOURGLASS"/>
+        <Resource_468 FileName="icons\hourglass_add.png" Type="RCDATA" ResourceName="HOURGLASS_ADD"/>
+        <Resource_469 FileName="icons\hourglass_delete.png" Type="RCDATA" ResourceName="HOURGLASS_DELETE"/>
+        <Resource_470 FileName="icons\hourglass_go.png" Type="RCDATA" ResourceName="HOURGLASS_GO"/>
+        <Resource_471 FileName="icons\hourglass_link.png" Type="RCDATA" ResourceName="HOURGLASS_LINK"/>
+        <Resource_472 FileName="icons\house.png" Type="RCDATA" ResourceName="HOUSE"/>
+        <Resource_473 FileName="icons\house_go.png" Type="RCDATA" ResourceName="HOUSE_GO"/>
+        <Resource_474 FileName="icons\house_link.png" Type="RCDATA" ResourceName="HOUSE_LINK"/>
+        <Resource_475 FileName="icons\html.png" Type="RCDATA" ResourceName="HTML"/>
+        <Resource_476 FileName="icons\html_add.png" Type="RCDATA" ResourceName="HTML_ADD"/>
+        <Resource_477 FileName="icons\html_delete.png" Type="RCDATA" ResourceName="HTML_DELETE"/>
+        <Resource_478 FileName="icons\html_go.png" Type="RCDATA" ResourceName="HTML_GO"/>
+        <Resource_479 FileName="icons\html_valid.png" Type="RCDATA" ResourceName="HTML_VALID"/>
+        <Resource_480 FileName="icons\image.png" Type="RCDATA" ResourceName="IMAGE"/>
+        <Resource_481 FileName="icons\image_add.png" Type="RCDATA" ResourceName="IMAGE_ADD"/>
+        <Resource_482 FileName="icons\image_delete.png" Type="RCDATA" ResourceName="IMAGE_DELETE"/>
+        <Resource_483 FileName="icons\image_edit.png" Type="RCDATA" ResourceName="IMAGE_EDIT"/>
+        <Resource_484 FileName="icons\image_link.png" Type="RCDATA" ResourceName="IMAGE_LINK"/>
+        <Resource_485 FileName="icons\images.png" Type="RCDATA" ResourceName="IMAGES"/>
+        <Resource_486 FileName="icons\information.png" Type="RCDATA" ResourceName="INFORMATION"/>
+        <Resource_487 FileName="icons\ipod.png" Type="RCDATA" ResourceName="IPOD"/>
+        <Resource_488 FileName="icons\ipod_cast.png" Type="RCDATA" ResourceName="IPOD_CAST"/>
+        <Resource_489 FileName="icons\ipod_cast_add.png" Type="RCDATA" ResourceName="IPOD_CAST_ADD"/>
+        <Resource_490 FileName="icons\ipod_cast_delete.png" Type="RCDATA" ResourceName="IPOD_CAST_DELETE"/>
+        <Resource_491 FileName="icons\ipod_sound.png" Type="RCDATA" ResourceName="IPOD_SOUND"/>
+        <Resource_492 FileName="icons\joystick.png" Type="RCDATA" ResourceName="JOYSTICK"/>
+        <Resource_493 FileName="icons\joystick_add.png" Type="RCDATA" ResourceName="JOYSTICK_ADD"/>
+        <Resource_494 FileName="icons\joystick_delete.png" Type="RCDATA" ResourceName="JOYSTICK_DELETE"/>
+        <Resource_495 FileName="icons\joystick_error.png" Type="RCDATA" ResourceName="JOYSTICK_ERROR"/>
+        <Resource_496 FileName="icons\key.png" Type="RCDATA" ResourceName="KEY"/>
+        <Resource_497 FileName="icons\key_add.png" Type="RCDATA" ResourceName="KEY_ADD"/>
+        <Resource_498 FileName="icons\key_delete.png" Type="RCDATA" ResourceName="KEY_DELETE"/>
+        <Resource_499 FileName="icons\key_go.png" Type="RCDATA" ResourceName="KEY_GO"/>
+        <Resource_500 FileName="icons\keyboard.png" Type="RCDATA" ResourceName="KEYBOARD"/>
+        <Resource_501 FileName="icons\keyboard_add.png" Type="RCDATA" ResourceName="KEYBOARD_ADD"/>
+        <Resource_502 FileName="icons\keyboard_delete.png" Type="RCDATA" ResourceName="KEYBOARD_DELETE"/>
+        <Resource_503 FileName="icons\keyboard_magnify.png" Type="RCDATA" ResourceName="KEYBOARD_MAGNIFY"/>
+        <Resource_504 FileName="icons\layers.png" Type="RCDATA" ResourceName="LAYERS"/>
+        <Resource_505 FileName="icons\layout.png" Type="RCDATA" ResourceName="LAYOUT"/>
+        <Resource_506 FileName="icons\layout_add.png" Type="RCDATA" ResourceName="LAYOUT_ADD"/>
+        <Resource_507 FileName="icons\layout_content.png" Type="RCDATA" ResourceName="LAYOUT_CONTENT"/>
+        <Resource_508 FileName="icons\layout_delete.png" Type="RCDATA" ResourceName="LAYOUT_DELETE"/>
+        <Resource_509 FileName="icons\layout_edit.png" Type="RCDATA" ResourceName="LAYOUT_EDIT"/>
+        <Resource_510 FileName="icons\layout_error.png" Type="RCDATA" ResourceName="LAYOUT_ERROR"/>
+        <Resource_511 FileName="icons\layout_header.png" Type="RCDATA" ResourceName="LAYOUT_HEADER"/>
+        <Resource_512 FileName="icons\layout_link.png" Type="RCDATA" ResourceName="LAYOUT_LINK"/>
+        <Resource_513 FileName="icons\layout_sidebar.png" Type="RCDATA" ResourceName="LAYOUT_SIDEBAR"/>
+        <Resource_514 FileName="icons\lightbulb.png" Type="RCDATA" ResourceName="LIGHTBULB"/>
+        <Resource_515 FileName="icons\lightbulb_add.png" Type="RCDATA" ResourceName="LIGHTBULB_ADD"/>
+        <Resource_516 FileName="icons\lightbulb_delete.png" Type="RCDATA" ResourceName="LIGHTBULB_DELETE"/>
+        <Resource_517 FileName="icons\lightbulb_off.png" Type="RCDATA" ResourceName="LIGHTBULB_OFF"/>
+        <Resource_518 FileName="icons\lightning.png" Type="RCDATA" ResourceName="LIGHTNING"/>
+        <Resource_519 FileName="icons\lightning_add.png" Type="RCDATA" ResourceName="LIGHTNING_ADD"/>
+        <Resource_520 FileName="icons\lightning_delete.png" Type="RCDATA" ResourceName="LIGHTNING_DELETE"/>
+        <Resource_521 FileName="icons\lightning_go.png" Type="RCDATA" ResourceName="LIGHTNING_GO"/>
+        <Resource_522 FileName="icons\link.png" Type="RCDATA" ResourceName="LINK"/>
+        <Resource_523 FileName="icons\link_add.png" Type="RCDATA" ResourceName="LINK_ADD"/>
+        <Resource_524 FileName="icons\link_break.png" Type="RCDATA" ResourceName="LINK_BREAK"/>
+        <Resource_525 FileName="icons\link_delete.png" Type="RCDATA" ResourceName="LINK_DELETE"/>
+        <Resource_526 FileName="icons\link_edit.png" Type="RCDATA" ResourceName="LINK_EDIT"/>
+        <Resource_527 FileName="icons\link_error.png" Type="RCDATA" ResourceName="LINK_ERROR"/>
+        <Resource_528 FileName="icons\link_go.png" Type="RCDATA" ResourceName="LINK_GO"/>
+        <Resource_529 FileName="icons\lock.png" Type="RCDATA" ResourceName="LOCK"/>
+        <Resource_530 FileName="icons\lock_add.png" Type="RCDATA" ResourceName="LOCK_ADD"/>
+        <Resource_531 FileName="icons\lock_break.png" Type="RCDATA" ResourceName="LOCK_BREAK"/>
+        <Resource_532 FileName="icons\lock_delete.png" Type="RCDATA" ResourceName="LOCK_DELETE"/>
+        <Resource_533 FileName="icons\lock_edit.png" Type="RCDATA" ResourceName="LOCK_EDIT"/>
+        <Resource_534 FileName="icons\lock_go.png" Type="RCDATA" ResourceName="LOCK_GO"/>
+        <Resource_535 FileName="icons\lock_open.png" Type="RCDATA" ResourceName="LOCK_OPEN"/>
+        <Resource_536 FileName="icons\lorry.png" Type="RCDATA" ResourceName="LORRY"/>
+        <Resource_537 FileName="icons\lorry_add.png" Type="RCDATA" ResourceName="LORRY_ADD"/>
+        <Resource_538 FileName="icons\lorry_delete.png" Type="RCDATA" ResourceName="LORRY_DELETE"/>
+        <Resource_539 FileName="icons\lorry_error.png" Type="RCDATA" ResourceName="LORRY_ERROR"/>
+        <Resource_540 FileName="icons\lorry_flatbed.png" Type="RCDATA" ResourceName="LORRY_FLATBED"/>
+        <Resource_541 FileName="icons\lorry_go.png" Type="RCDATA" ResourceName="LORRY_GO"/>
+        <Resource_542 FileName="icons\lorry_link.png" Type="RCDATA" ResourceName="LORRY_LINK"/>
+        <Resource_543 FileName="icons\magifier_zoom_out.png" Type="RCDATA" ResourceName="MAGIFIER_ZOOM_OUT"/>
+        <Resource_544 FileName="icons\magnifier.png" Type="RCDATA" ResourceName="MAGNIFIER"/>
+        <Resource_545 FileName="icons\magnifier_zoom_in.png" Type="RCDATA" ResourceName="MAGNIFIER_ZOOM_IN"/>
+        <Resource_546 FileName="icons\male.png" Type="RCDATA" ResourceName="MALE"/>
+        <Resource_547 FileName="icons\map.png" Type="RCDATA" ResourceName="MAP"/>
+        <Resource_548 FileName="icons\map_add.png" Type="RCDATA" ResourceName="MAP_ADD"/>
+        <Resource_549 FileName="icons\map_delete.png" Type="RCDATA" ResourceName="MAP_DELETE"/>
+        <Resource_550 FileName="icons\map_edit.png" Type="RCDATA" ResourceName="MAP_EDIT"/>
+        <Resource_551 FileName="icons\map_go.png" Type="RCDATA" ResourceName="MAP_GO"/>
+        <Resource_552 FileName="icons\map_magnify.png" Type="RCDATA" ResourceName="MAP_MAGNIFY"/>
+        <Resource_553 FileName="icons\medal_bronze_1.png" Type="RCDATA" ResourceName="MEDAL_BRONZE_1"/>
+        <Resource_554 FileName="icons\medal_bronze_2.png" Type="RCDATA" ResourceName="MEDAL_BRONZE_2"/>
+        <Resource_555 FileName="icons\medal_bronze_3.png" Type="RCDATA" ResourceName="MEDAL_BRONZE_3"/>
+        <Resource_556 FileName="icons\medal_bronze_add.png" Type="RCDATA" ResourceName="MEDAL_BRONZE_ADD"/>
+        <Resource_557 FileName="icons\medal_bronze_delete.png" Type="RCDATA" ResourceName="MEDAL_BRONZE_DELETE"/>
+        <Resource_558 FileName="icons\medal_gold_1.png" Type="RCDATA" ResourceName="MEDAL_GOLD_1"/>
+        <Resource_559 FileName="icons\medal_gold_2.png" Type="RCDATA" ResourceName="MEDAL_GOLD_2"/>
+        <Resource_560 FileName="icons\medal_gold_3.png" Type="RCDATA" ResourceName="MEDAL_GOLD_3"/>
+        <Resource_561 FileName="icons\medal_gold_add.png" Type="RCDATA" ResourceName="MEDAL_GOLD_ADD"/>
+        <Resource_562 FileName="icons\medal_gold_delete.png" Type="RCDATA" ResourceName="MEDAL_GOLD_DELETE"/>
+        <Resource_563 FileName="icons\medal_silver_1.png" Type="RCDATA" ResourceName="MEDAL_SILVER_1"/>
+        <Resource_564 FileName="icons\medal_silver_2.png" Type="RCDATA" ResourceName="MEDAL_SILVER_2"/>
+        <Resource_565 FileName="icons\medal_silver_3.png" Type="RCDATA" ResourceName="MEDAL_SILVER_3"/>
+        <Resource_566 FileName="icons\medal_silver_add.png" Type="RCDATA" ResourceName="MEDAL_SILVER_ADD"/>
+        <Resource_567 FileName="icons\medal_silver_delete.png" Type="RCDATA" ResourceName="MEDAL_SILVER_DELETE"/>
+        <Resource_568 FileName="icons\money.png" Type="RCDATA" ResourceName="MONEY"/>
+        <Resource_569 FileName="icons\money_add.png" Type="RCDATA" ResourceName="MONEY_ADD"/>
+        <Resource_570 FileName="icons\money_delete.png" Type="RCDATA" ResourceName="MONEY_DELETE"/>
+        <Resource_571 FileName="icons\money_dollar.png" Type="RCDATA" ResourceName="MONEY_DOLLAR"/>
+        <Resource_572 FileName="icons\money_euro.png" Type="RCDATA" ResourceName="MONEY_EURO"/>
+        <Resource_573 FileName="icons\money_pound.png" Type="RCDATA" ResourceName="MONEY_POUND"/>
+        <Resource_574 FileName="icons\money_yen.png" Type="RCDATA" ResourceName="MONEY_YEN"/>
+        <Resource_575 FileName="icons\monitor.png" Type="RCDATA" ResourceName="MONITOR"/>
+        <Resource_576 FileName="icons\monitor_add.png" Type="RCDATA" ResourceName="MONITOR_ADD"/>
+        <Resource_577 FileName="icons\monitor_delete.png" Type="RCDATA" ResourceName="MONITOR_DELETE"/>
+        <Resource_578 FileName="icons\monitor_edit.png" Type="RCDATA" ResourceName="MONITOR_EDIT"/>
+        <Resource_579 FileName="icons\monitor_error.png" Type="RCDATA" ResourceName="MONITOR_ERROR"/>
+        <Resource_580 FileName="icons\monitor_go.png" Type="RCDATA" ResourceName="MONITOR_GO"/>
+        <Resource_581 FileName="icons\monitor_lightning.png" Type="RCDATA" ResourceName="MONITOR_LIGHTNING"/>
+        <Resource_582 FileName="icons\monitor_link.png" Type="RCDATA" ResourceName="MONITOR_LINK"/>
+        <Resource_583 FileName="icons\mouse.png" Type="RCDATA" ResourceName="MOUSE"/>
+        <Resource_584 FileName="icons\mouse_add.png" Type="RCDATA" ResourceName="MOUSE_ADD"/>
+        <Resource_585 FileName="icons\mouse_delete.png" Type="RCDATA" ResourceName="MOUSE_DELETE"/>
+        <Resource_586 FileName="icons\mouse_error.png" Type="RCDATA" ResourceName="MOUSE_ERROR"/>
+        <Resource_587 FileName="icons\music.png" Type="RCDATA" ResourceName="MUSIC"/>
+        <Resource_588 FileName="icons\new.png" Type="RCDATA" ResourceName="NEW"/>
+        <Resource_589 FileName="icons\newspaper.png" Type="RCDATA" ResourceName="NEWSPAPER"/>
+        <Resource_590 FileName="icons\newspaper_add.png" Type="RCDATA" ResourceName="NEWSPAPER_ADD"/>
+        <Resource_591 FileName="icons\newspaper_delete.png" Type="RCDATA" ResourceName="NEWSPAPER_DELETE"/>
+        <Resource_592 FileName="icons\newspaper_go.png" Type="RCDATA" ResourceName="NEWSPAPER_GO"/>
+        <Resource_593 FileName="icons\newspaper_link.png" Type="RCDATA" ResourceName="NEWSPAPER_LINK"/>
+        <Resource_594 FileName="icons\note.png" Type="RCDATA" ResourceName="NOTE"/>
+        <Resource_595 FileName="icons\note_add.png" Type="RCDATA" ResourceName="NOTE_ADD"/>
+        <Resource_596 FileName="icons\note_delete.png" Type="RCDATA" ResourceName="NOTE_DELETE"/>
+        <Resource_597 FileName="icons\note_edit.png" Type="RCDATA" ResourceName="NOTE_EDIT"/>
+        <Resource_598 FileName="icons\note_error.png" Type="RCDATA" ResourceName="NOTE_ERROR"/>
+        <Resource_599 FileName="icons\note_go.png" Type="RCDATA" ResourceName="NOTE_GO"/>
+        <Resource_600 FileName="icons\overlays.png" Type="RCDATA" ResourceName="OVERLAYS"/>
+        <Resource_601 FileName="icons\package.png" Type="RCDATA" ResourceName="PACKAGE"/>
+        <Resource_602 FileName="icons\package_add.png" Type="RCDATA" ResourceName="PACKAGE_ADD"/>
+        <Resource_603 FileName="icons\package_delete.png" Type="RCDATA" ResourceName="PACKAGE_DELETE"/>
+        <Resource_604 FileName="icons\package_go.png" Type="RCDATA" ResourceName="PACKAGE_GO"/>
+        <Resource_605 FileName="icons\package_green.png" Type="RCDATA" ResourceName="PACKAGE_GREEN"/>
+        <Resource_606 FileName="icons\package_link.png" Type="RCDATA" ResourceName="PACKAGE_LINK"/>
+        <Resource_607 FileName="icons\page.png" Type="RCDATA" ResourceName="PAGE"/>
+        <Resource_608 FileName="icons\page_add.png" Type="RCDATA" ResourceName="PAGE_ADD"/>
+        <Resource_609 FileName="icons\page_attach.png" Type="RCDATA" ResourceName="PAGE_ATTACH"/>
+        <Resource_610 FileName="icons\page_code.png" Type="RCDATA" ResourceName="PAGE_CODE"/>
+        <Resource_611 FileName="icons\page_copy.png" Type="RCDATA" ResourceName="PAGE_COPY"/>
+        <Resource_612 FileName="icons\page_delete.png" Type="RCDATA" ResourceName="PAGE_DELETE"/>
+        <Resource_613 FileName="icons\page_edit.png" Type="RCDATA" ResourceName="PAGE_EDIT"/>
+        <Resource_614 FileName="icons\page_error.png" Type="RCDATA" ResourceName="PAGE_ERROR"/>
+        <Resource_615 FileName="icons\page_excel.png" Type="RCDATA" ResourceName="PAGE_EXCEL"/>
+        <Resource_616 FileName="icons\page_find.png" Type="RCDATA" ResourceName="PAGE_FIND"/>
+        <Resource_617 FileName="icons\page_gear.png" Type="RCDATA" ResourceName="PAGE_GEAR"/>
+        <Resource_618 FileName="icons\page_go.png" Type="RCDATA" ResourceName="PAGE_GO"/>
+        <Resource_619 FileName="icons\page_green.png" Type="RCDATA" ResourceName="PAGE_GREEN"/>
+        <Resource_620 FileName="icons\page_key.png" Type="RCDATA" ResourceName="PAGE_KEY"/>
+        <Resource_621 FileName="icons\page_lightning.png" Type="RCDATA" ResourceName="PAGE_LIGHTNING"/>
+        <Resource_622 FileName="icons\page_link.png" Type="RCDATA" ResourceName="PAGE_LINK"/>
+        <Resource_623 FileName="icons\page_paintbrush.png" Type="RCDATA" ResourceName="PAGE_PAINTBRUSH"/>
+        <Resource_624 FileName="icons\page_paste.png" Type="RCDATA" ResourceName="PAGE_PASTE"/>
+        <Resource_625 FileName="icons\page_red.png" Type="RCDATA" ResourceName="PAGE_RED"/>
+        <Resource_626 FileName="icons\page_refresh.png" Type="RCDATA" ResourceName="PAGE_REFRESH"/>
+        <Resource_627 FileName="icons\page_save.png" Type="RCDATA" ResourceName="PAGE_SAVE"/>
+        <Resource_628 FileName="icons\page_white.png" Type="RCDATA" ResourceName="PAGE_WHITE"/>
+        <Resource_629 FileName="icons\page_white_acrobat.png" Type="RCDATA" ResourceName="PAGE_WHITE_ACROBAT"/>
+        <Resource_630 FileName="icons\page_white_actionscript.png" Type="RCDATA" ResourceName="PAGE_WHITE_ACTIONSCRIPT"/>
+        <Resource_631 FileName="icons\page_white_add.png" Type="RCDATA" ResourceName="PAGE_WHITE_ADD"/>
+        <Resource_632 FileName="icons\page_white_c.png" Type="RCDATA" ResourceName="PAGE_WHITE_C"/>
+        <Resource_633 FileName="icons\page_white_camera.png" Type="RCDATA" ResourceName="PAGE_WHITE_CAMERA"/>
+        <Resource_634 FileName="icons\page_white_cd.png" Type="RCDATA" ResourceName="PAGE_WHITE_CD"/>
+        <Resource_635 FileName="icons\page_white_code.png" Type="RCDATA" ResourceName="PAGE_WHITE_CODE"/>
+        <Resource_636 FileName="icons\page_white_code_red.png" Type="RCDATA" ResourceName="PAGE_WHITE_CODE_RED"/>
+        <Resource_637 FileName="icons\page_white_coldfusion.png" Type="RCDATA" ResourceName="PAGE_WHITE_COLDFUSION"/>
+        <Resource_638 FileName="icons\page_white_compressed.png" Type="RCDATA" ResourceName="PAGE_WHITE_COMPRESSED"/>
+        <Resource_639 FileName="icons\page_white_copy.png" Type="RCDATA" ResourceName="PAGE_WHITE_COPY"/>
+        <Resource_640 FileName="icons\page_white_cplusplus.png" Type="RCDATA" ResourceName="PAGE_WHITE_CPLUSPLUS"/>
+        <Resource_641 FileName="icons\page_white_csharp.png" Type="RCDATA" ResourceName="PAGE_WHITE_CSHARP"/>
+        <Resource_642 FileName="icons\page_white_cup.png" Type="RCDATA" ResourceName="PAGE_WHITE_CUP"/>
+        <Resource_643 FileName="icons\page_white_database.png" Type="RCDATA" ResourceName="PAGE_WHITE_DATABASE"/>
+        <Resource_644 FileName="icons\page_white_delete.png" Type="RCDATA" ResourceName="PAGE_WHITE_DELETE"/>
+        <Resource_645 FileName="icons\page_white_dvd.png" Type="RCDATA" ResourceName="PAGE_WHITE_DVD"/>
+        <Resource_646 FileName="icons\page_white_edit.png" Type="RCDATA" ResourceName="PAGE_WHITE_EDIT"/>
+        <Resource_647 FileName="icons\page_white_error.png" Type="RCDATA" ResourceName="PAGE_WHITE_ERROR"/>
+        <Resource_648 FileName="icons\page_white_excel.png" Type="RCDATA" ResourceName="PAGE_WHITE_EXCEL"/>
+        <Resource_649 FileName="icons\page_white_find.png" Type="RCDATA" ResourceName="PAGE_WHITE_FIND"/>
+        <Resource_650 FileName="icons\page_white_flash.png" Type="RCDATA" ResourceName="PAGE_WHITE_FLASH"/>
+        <Resource_651 FileName="icons\page_white_freehand.png" Type="RCDATA" ResourceName="PAGE_WHITE_FREEHAND"/>
+        <Resource_652 FileName="icons\page_white_gear.png" Type="RCDATA" ResourceName="PAGE_WHITE_GEAR"/>
+        <Resource_653 FileName="icons\page_white_get.png" Type="RCDATA" ResourceName="PAGE_WHITE_GET"/>
+        <Resource_654 FileName="icons\page_white_go.png" Type="RCDATA" ResourceName="PAGE_WHITE_GO"/>
+        <Resource_655 FileName="icons\page_white_h.png" Type="RCDATA" ResourceName="PAGE_WHITE_H"/>
+        <Resource_656 FileName="icons\page_white_horizontal.png" Type="RCDATA" ResourceName="PAGE_WHITE_HORIZONTAL"/>
+        <Resource_657 FileName="icons\page_white_key.png" Type="RCDATA" ResourceName="PAGE_WHITE_KEY"/>
+        <Resource_658 FileName="icons\page_white_lightning.png" Type="RCDATA" ResourceName="PAGE_WHITE_LIGHTNING"/>
+        <Resource_659 FileName="icons\page_white_link.png" Type="RCDATA" ResourceName="PAGE_WHITE_LINK"/>
+        <Resource_660 FileName="icons\page_white_magnify.png" Type="RCDATA" ResourceName="PAGE_WHITE_MAGNIFY"/>
+        <Resource_661 FileName="icons\page_white_medal.png" Type="RCDATA" ResourceName="PAGE_WHITE_MEDAL"/>
+        <Resource_662 FileName="icons\page_white_office.png" Type="RCDATA" ResourceName="PAGE_WHITE_OFFICE"/>
+        <Resource_663 FileName="icons\page_white_paint.png" Type="RCDATA" ResourceName="PAGE_WHITE_PAINT"/>
+        <Resource_664 FileName="icons\page_white_paintbrush.png" Type="RCDATA" ResourceName="PAGE_WHITE_PAINTBRUSH"/>
+        <Resource_665 FileName="icons\page_white_paste.png" Type="RCDATA" ResourceName="PAGE_WHITE_PASTE"/>
+        <Resource_666 FileName="icons\page_white_php.png" Type="RCDATA" ResourceName="PAGE_WHITE_PHP"/>
+        <Resource_667 FileName="icons\page_white_picture.png" Type="RCDATA" ResourceName="PAGE_WHITE_PICTURE"/>
+        <Resource_668 FileName="icons\page_white_powerpoint.png" Type="RCDATA" ResourceName="PAGE_WHITE_POWERPOINT"/>
+        <Resource_669 FileName="icons\page_white_put.png" Type="RCDATA" ResourceName="PAGE_WHITE_PUT"/>
+        <Resource_670 FileName="icons\page_white_ruby.png" Type="RCDATA" ResourceName="PAGE_WHITE_RUBY"/>
+        <Resource_671 FileName="icons\page_white_stack.png" Type="RCDATA" ResourceName="PAGE_WHITE_STACK"/>
+        <Resource_672 FileName="icons\page_white_star.png" Type="RCDATA" ResourceName="PAGE_WHITE_STAR"/>
+        <Resource_673 FileName="icons\page_white_swoosh.png" Type="RCDATA" ResourceName="PAGE_WHITE_SWOOSH"/>
+        <Resource_674 FileName="icons\page_white_text.png" Type="RCDATA" ResourceName="PAGE_WHITE_TEXT"/>
+        <Resource_675 FileName="icons\page_white_text_width.png" Type="RCDATA" ResourceName="PAGE_WHITE_TEXT_WIDTH"/>
+        <Resource_676 FileName="icons\page_white_tux.png" Type="RCDATA" ResourceName="PAGE_WHITE_TUX"/>
+        <Resource_677 FileName="icons\page_white_vector.png" Type="RCDATA" ResourceName="PAGE_WHITE_VECTOR"/>
+        <Resource_678 FileName="icons\page_white_visualstudio.png" Type="RCDATA" ResourceName="PAGE_WHITE_VISUALSTUDIO"/>
+        <Resource_679 FileName="icons\page_white_width.png" Type="RCDATA" ResourceName="PAGE_WHITE_WIDTH"/>
+        <Resource_680 FileName="icons\page_white_word.png" Type="RCDATA" ResourceName="PAGE_WHITE_WORD"/>
+        <Resource_681 FileName="icons\page_white_world.png" Type="RCDATA" ResourceName="PAGE_WHITE_WORLD"/>
+        <Resource_682 FileName="icons\page_white_wrench.png" Type="RCDATA" ResourceName="PAGE_WHITE_WRENCH"/>
+        <Resource_683 FileName="icons\page_white_zip.png" Type="RCDATA" ResourceName="PAGE_WHITE_ZIP"/>
+        <Resource_684 FileName="icons\page_word.png" Type="RCDATA" ResourceName="PAGE_WORD"/>
+        <Resource_685 FileName="icons\page_world.png" Type="RCDATA" ResourceName="PAGE_WORLD"/>
+        <Resource_686 FileName="icons\paintbrush.png" Type="RCDATA" ResourceName="PAINTBRUSH"/>
+        <Resource_687 FileName="icons\paintcan.png" Type="RCDATA" ResourceName="PAINTCAN"/>
+        <Resource_688 FileName="icons\palette.png" Type="RCDATA" ResourceName="PALETTE"/>
+        <Resource_689 FileName="icons\paste_plain.png" Type="RCDATA" ResourceName="PASTE_PLAIN"/>
+        <Resource_690 FileName="icons\paste_word.png" Type="RCDATA" ResourceName="PASTE_WORD"/>
+        <Resource_691 FileName="icons\pencil.png" Type="RCDATA" ResourceName="PENCIL"/>
+        <Resource_692 FileName="icons\pencil_add.png" Type="RCDATA" ResourceName="PENCIL_ADD"/>
+        <Resource_693 FileName="icons\pencil_delete.png" Type="RCDATA" ResourceName="PENCIL_DELETE"/>
+        <Resource_694 FileName="icons\pencil_go.png" Type="RCDATA" ResourceName="PENCIL_GO"/>
+        <Resource_695 FileName="icons\phone.png" Type="RCDATA" ResourceName="PHONE"/>
+        <Resource_696 FileName="icons\phone_add.png" Type="RCDATA" ResourceName="PHONE_ADD"/>
+        <Resource_697 FileName="icons\phone_delete.png" Type="RCDATA" ResourceName="PHONE_DELETE"/>
+        <Resource_698 FileName="icons\phone_sound.png" Type="RCDATA" ResourceName="PHONE_SOUND"/>
+        <Resource_699 FileName="icons\photo.png" Type="RCDATA" ResourceName="PHOTO"/>
+        <Resource_700 FileName="icons\photo_add.png" Type="RCDATA" ResourceName="PHOTO_ADD"/>
+        <Resource_701 FileName="icons\photo_delete.png" Type="RCDATA" ResourceName="PHOTO_DELETE"/>
+        <Resource_702 FileName="icons\photo_link.png" Type="RCDATA" ResourceName="PHOTO_LINK"/>
+        <Resource_703 FileName="icons\photos.png" Type="RCDATA" ResourceName="PHOTOS"/>
+        <Resource_704 FileName="icons\picture.png" Type="RCDATA" ResourceName="PICTURE"/>
+        <Resource_705 FileName="icons\picture_add.png" Type="RCDATA" ResourceName="PICTURE_ADD"/>
+        <Resource_706 FileName="icons\picture_delete.png" Type="RCDATA" ResourceName="PICTURE_DELETE"/>
+        <Resource_707 FileName="icons\picture_edit.png" Type="RCDATA" ResourceName="PICTURE_EDIT"/>
+        <Resource_708 FileName="icons\picture_empty.png" Type="RCDATA" ResourceName="PICTURE_EMPTY"/>
+        <Resource_709 FileName="icons\picture_error.png" Type="RCDATA" ResourceName="PICTURE_ERROR"/>
+        <Resource_710 FileName="icons\picture_go.png" Type="RCDATA" ResourceName="PICTURE_GO"/>
+        <Resource_711 FileName="icons\picture_key.png" Type="RCDATA" ResourceName="PICTURE_KEY"/>
+        <Resource_712 FileName="icons\picture_link.png" Type="RCDATA" ResourceName="PICTURE_LINK"/>
+        <Resource_713 FileName="icons\picture_save.png" Type="RCDATA" ResourceName="PICTURE_SAVE"/>
+        <Resource_714 FileName="icons\pictures.png" Type="RCDATA" ResourceName="PICTURES"/>
+        <Resource_715 FileName="icons\pilcrow.png" Type="RCDATA" ResourceName="PILCROW"/>
+        <Resource_716 FileName="icons\pill.png" Type="RCDATA" ResourceName="PILL"/>
+        <Resource_717 FileName="icons\pill_add.png" Type="RCDATA" ResourceName="PILL_ADD"/>
+        <Resource_718 FileName="icons\pill_delete.png" Type="RCDATA" ResourceName="PILL_DELETE"/>
+        <Resource_719 FileName="icons\pill_go.png" Type="RCDATA" ResourceName="PILL_GO"/>
+        <Resource_720 FileName="icons\plugin.png" Type="RCDATA" ResourceName="PLUGIN"/>
+        <Resource_721 FileName="icons\plugin_add.png" Type="RCDATA" ResourceName="PLUGIN_ADD"/>
+        <Resource_722 FileName="icons\plugin_delete.png" Type="RCDATA" ResourceName="PLUGIN_DELETE"/>
+        <Resource_723 FileName="icons\plugin_disabled.png" Type="RCDATA" ResourceName="PLUGIN_DISABLED"/>
+        <Resource_724 FileName="icons\plugin_edit.png" Type="RCDATA" ResourceName="PLUGIN_EDIT"/>
+        <Resource_725 FileName="icons\plugin_error.png" Type="RCDATA" ResourceName="PLUGIN_ERROR"/>
+        <Resource_726 FileName="icons\plugin_go.png" Type="RCDATA" ResourceName="PLUGIN_GO"/>
+        <Resource_727 FileName="icons\plugin_link.png" Type="RCDATA" ResourceName="PLUGIN_LINK"/>
+        <Resource_728 FileName="icons\printer.png" Type="RCDATA" ResourceName="PRINTER"/>
+        <Resource_729 FileName="icons\printer_add.png" Type="RCDATA" ResourceName="PRINTER_ADD"/>
+        <Resource_730 FileName="icons\printer_delete.png" Type="RCDATA" ResourceName="PRINTER_DELETE"/>
+        <Resource_731 FileName="icons\printer_empty.png" Type="RCDATA" ResourceName="PRINTER_EMPTY"/>
+        <Resource_732 FileName="icons\printer_error.png" Type="RCDATA" ResourceName="PRINTER_ERROR"/>
+        <Resource_733 FileName="icons\rainbow.png" Type="RCDATA" ResourceName="RAINBOW"/>
+        <Resource_734 FileName="icons\report.png" Type="RCDATA" ResourceName="REPORT"/>
+        <Resource_735 FileName="icons\report_add.png" Type="RCDATA" ResourceName="REPORT_ADD"/>
+        <Resource_736 FileName="icons\report_delete.png" Type="RCDATA" ResourceName="REPORT_DELETE"/>
+        <Resource_737 FileName="icons\report_disk.png" Type="RCDATA" ResourceName="REPORT_DISK"/>
+        <Resource_738 FileName="icons\report_edit.png" Type="RCDATA" ResourceName="REPORT_EDIT"/>
+        <Resource_739 FileName="icons\report_go.png" Type="RCDATA" ResourceName="REPORT_GO"/>
+        <Resource_740 FileName="icons\report_key.png" Type="RCDATA" ResourceName="REPORT_KEY"/>
+        <Resource_741 FileName="icons\report_link.png" Type="RCDATA" ResourceName="REPORT_LINK"/>
+        <Resource_742 FileName="icons\report_magnify.png" Type="RCDATA" ResourceName="REPORT_MAGNIFY"/>
+        <Resource_743 FileName="icons\report_picture.png" Type="RCDATA" ResourceName="REPORT_PICTURE"/>
+        <Resource_744 FileName="icons\report_user.png" Type="RCDATA" ResourceName="REPORT_USER"/>
+        <Resource_745 FileName="icons\report_word.png" Type="RCDATA" ResourceName="REPORT_WORD"/>
+        <Resource_746 FileName="icons\resultset_first.png" Type="RCDATA" ResourceName="RESULTSET_FIRST"/>
+        <Resource_747 FileName="icons\resultset_last.png" Type="RCDATA" ResourceName="RESULTSET_LAST"/>
+        <Resource_748 FileName="icons\resultset_next.png" Type="RCDATA" ResourceName="RESULTSET_NEXT"/>
+        <Resource_749 FileName="icons\resultset_previous.png" Type="RCDATA" ResourceName="RESULTSET_PREVIOUS"/>
+        <Resource_750 FileName="icons\rosette.png" Type="RCDATA" ResourceName="ROSETTE"/>
+        <Resource_751 FileName="icons\rss.png" Type="RCDATA" ResourceName="RSS"/>
+        <Resource_752 FileName="icons\rss_add.png" Type="RCDATA" ResourceName="RSS_ADD"/>
+        <Resource_753 FileName="icons\rss_delete.png" Type="RCDATA" ResourceName="RSS_DELETE"/>
+        <Resource_754 FileName="icons\rss_go.png" Type="RCDATA" ResourceName="RSS_GO"/>
+        <Resource_755 FileName="icons\rss_valid.png" Type="RCDATA" ResourceName="RSS_VALID"/>
+        <Resource_756 FileName="icons\ruby.png" Type="RCDATA" ResourceName="RUBY"/>
+        <Resource_757 FileName="icons\ruby_add.png" Type="RCDATA" ResourceName="RUBY_ADD"/>
+        <Resource_758 FileName="icons\ruby_delete.png" Type="RCDATA" ResourceName="RUBY_DELETE"/>
+        <Resource_759 FileName="icons\ruby_gear.png" Type="RCDATA" ResourceName="RUBY_GEAR"/>
+        <Resource_760 FileName="icons\ruby_get.png" Type="RCDATA" ResourceName="RUBY_GET"/>
+        <Resource_761 FileName="icons\ruby_go.png" Type="RCDATA" ResourceName="RUBY_GO"/>
+        <Resource_762 FileName="icons\ruby_key.png" Type="RCDATA" ResourceName="RUBY_KEY"/>
+        <Resource_763 FileName="icons\ruby_link.png" Type="RCDATA" ResourceName="RUBY_LINK"/>
+        <Resource_764 FileName="icons\ruby_put.png" Type="RCDATA" ResourceName="RUBY_PUT"/>
+        <Resource_765 FileName="icons\script.png" Type="RCDATA" ResourceName="SCRIPT"/>
+        <Resource_766 FileName="icons\script_add.png" Type="RCDATA" ResourceName="SCRIPT_ADD"/>
+        <Resource_767 FileName="icons\script_code.png" Type="RCDATA" ResourceName="SCRIPT_CODE"/>
+        <Resource_768 FileName="icons\script_code_red.png" Type="RCDATA" ResourceName="SCRIPT_CODE_RED"/>
+        <Resource_769 FileName="icons\script_delete.png" Type="RCDATA" ResourceName="SCRIPT_DELETE"/>
+        <Resource_770 FileName="icons\script_edit.png" Type="RCDATA" ResourceName="SCRIPT_EDIT"/>
+        <Resource_771 FileName="icons\script_error.png" Type="RCDATA" ResourceName="SCRIPT_ERROR"/>
+        <Resource_772 FileName="icons\script_gear.png" Type="RCDATA" ResourceName="SCRIPT_GEAR"/>
+        <Resource_773 FileName="icons\script_go.png" Type="RCDATA" ResourceName="SCRIPT_GO"/>
+        <Resource_774 FileName="icons\script_key.png" Type="RCDATA" ResourceName="SCRIPT_KEY"/>
+        <Resource_775 FileName="icons\script_lightning.png" Type="RCDATA" ResourceName="SCRIPT_LIGHTNING"/>
+        <Resource_776 FileName="icons\script_link.png" Type="RCDATA" ResourceName="SCRIPT_LINK"/>
+        <Resource_777 FileName="icons\script_palette.png" Type="RCDATA" ResourceName="SCRIPT_PALETTE"/>
+        <Resource_778 FileName="icons\script_save.png" Type="RCDATA" ResourceName="SCRIPT_SAVE"/>
+        <Resource_779 FileName="icons\server.png" Type="RCDATA" ResourceName="SERVER"/>
+        <Resource_780 FileName="icons\server_add.png" Type="RCDATA" ResourceName="SERVER_ADD"/>
+        <Resource_781 FileName="icons\server_chart.png" Type="RCDATA" ResourceName="SERVER_CHART"/>
+        <Resource_782 FileName="icons\server_compressed.png" Type="RCDATA" ResourceName="SERVER_COMPRESSED"/>
+        <Resource_783 FileName="icons\server_connect.png" Type="RCDATA" ResourceName="SERVER_CONNECT"/>
+        <Resource_784 FileName="icons\server_database.png" Type="RCDATA" ResourceName="SERVER_DATABASE"/>
+        <Resource_785 FileName="icons\server_delete.png" Type="RCDATA" ResourceName="SERVER_DELETE"/>
+        <Resource_786 FileName="icons\server_edit.png" Type="RCDATA" ResourceName="SERVER_EDIT"/>
+        <Resource_787 FileName="icons\server_error.png" Type="RCDATA" ResourceName="SERVER_ERROR"/>
+        <Resource_788 FileName="icons\server_go.png" Type="RCDATA" ResourceName="SERVER_GO"/>
+        <Resource_789 FileName="icons\server_key.png" Type="RCDATA" ResourceName="SERVER_KEY"/>
+        <Resource_790 FileName="icons\server_lightning.png" Type="RCDATA" ResourceName="SERVER_LIGHTNING"/>
+        <Resource_791 FileName="icons\server_link.png" Type="RCDATA" ResourceName="SERVER_LINK"/>
+        <Resource_792 FileName="icons\server_uncompressed.png" Type="RCDATA" ResourceName="SERVER_UNCOMPRESSED"/>
+        <Resource_793 FileName="icons\shading.png" Type="RCDATA" ResourceName="SHADING"/>
+        <Resource_794 FileName="icons\shape_align_bottom.png" Type="RCDATA" ResourceName="SHAPE_ALIGN_BOTTOM"/>
+        <Resource_795 FileName="icons\shape_align_center.png" Type="RCDATA" ResourceName="SHAPE_ALIGN_CENTER"/>
+        <Resource_796 FileName="icons\shape_align_left.png" Type="RCDATA" ResourceName="SHAPE_ALIGN_LEFT"/>
+        <Resource_797 FileName="icons\shape_align_middle.png" Type="RCDATA" ResourceName="SHAPE_ALIGN_MIDDLE"/>
+        <Resource_798 FileName="icons\shape_align_right.png" Type="RCDATA" ResourceName="SHAPE_ALIGN_RIGHT"/>
+        <Resource_799 FileName="icons\shape_align_top.png" Type="RCDATA" ResourceName="SHAPE_ALIGN_TOP"/>
+        <Resource_800 FileName="icons\shape_flip_horizontal.png" Type="RCDATA" ResourceName="SHAPE_FLIP_HORIZONTAL"/>
+        <Resource_801 FileName="icons\shape_flip_vertical.png" Type="RCDATA" ResourceName="SHAPE_FLIP_VERTICAL"/>
+        <Resource_802 FileName="icons\shape_group.png" Type="RCDATA" ResourceName="SHAPE_GROUP"/>
+        <Resource_803 FileName="icons\shape_handles.png" Type="RCDATA" ResourceName="SHAPE_HANDLES"/>
+        <Resource_804 FileName="icons\shape_move_back.png" Type="RCDATA" ResourceName="SHAPE_MOVE_BACK"/>
+        <Resource_805 FileName="icons\shape_move_backwards.png" Type="RCDATA" ResourceName="SHAPE_MOVE_BACKWARDS"/>
+        <Resource_806 FileName="icons\shape_move_forwards.png" Type="RCDATA" ResourceName="SHAPE_MOVE_FORWARDS"/>
+        <Resource_807 FileName="icons\shape_move_front.png" Type="RCDATA" ResourceName="SHAPE_MOVE_FRONT"/>
+        <Resource_808 FileName="icons\shape_rotate_anticlockwise.png" Type="RCDATA" ResourceName="SHAPE_ROTATE_ANTICLOCKWISE"/>
+        <Resource_809 FileName="icons\shape_rotate_clockwise.png" Type="RCDATA" ResourceName="SHAPE_ROTATE_CLOCKWISE"/>
+        <Resource_810 FileName="icons\shape_square.png" Type="RCDATA" ResourceName="SHAPE_SQUARE"/>
+        <Resource_811 FileName="icons\shape_square_add.png" Type="RCDATA" ResourceName="SHAPE_SQUARE_ADD"/>
+        <Resource_812 FileName="icons\shape_square_delete.png" Type="RCDATA" ResourceName="SHAPE_SQUARE_DELETE"/>
+        <Resource_813 FileName="icons\shape_square_edit.png" Type="RCDATA" ResourceName="SHAPE_SQUARE_EDIT"/>
+        <Resource_814 FileName="icons\shape_square_error.png" Type="RCDATA" ResourceName="SHAPE_SQUARE_ERROR"/>
+        <Resource_815 FileName="icons\shape_square_go.png" Type="RCDATA" ResourceName="SHAPE_SQUARE_GO"/>
+        <Resource_816 FileName="icons\shape_square_key.png" Type="RCDATA" ResourceName="SHAPE_SQUARE_KEY"/>
+        <Resource_817 FileName="icons\shape_square_link.png" Type="RCDATA" ResourceName="SHAPE_SQUARE_LINK"/>
+        <Resource_818 FileName="icons\shape_ungroup.png" Type="RCDATA" ResourceName="SHAPE_UNGROUP"/>
+        <Resource_819 FileName="icons\shield.png" Type="RCDATA" ResourceName="SHIELD"/>
+        <Resource_820 FileName="icons\shield_add.png" Type="RCDATA" ResourceName="SHIELD_ADD"/>
+        <Resource_821 FileName="icons\shield_delete.png" Type="RCDATA" ResourceName="SHIELD_DELETE"/>
+        <Resource_822 FileName="icons\shield_go.png" Type="RCDATA" ResourceName="SHIELD_GO"/>
+        <Resource_823 FileName="icons\sitemap.png" Type="RCDATA" ResourceName="SITEMAP"/>
+        <Resource_824 FileName="icons\sitemap_color.png" Type="RCDATA" ResourceName="SITEMAP_COLOR"/>
+        <Resource_825 FileName="icons\sound.png" Type="RCDATA" ResourceName="SOUND"/>
+        <Resource_826 FileName="icons\sound_add.png" Type="RCDATA" ResourceName="SOUND_ADD"/>
+        <Resource_827 FileName="icons\sound_delete.png" Type="RCDATA" ResourceName="SOUND_DELETE"/>
+        <Resource_828 FileName="icons\sound_low.png" Type="RCDATA" ResourceName="SOUND_LOW"/>
+        <Resource_829 FileName="icons\sound_mute.png" Type="RCDATA" ResourceName="SOUND_MUTE"/>
+        <Resource_830 FileName="icons\sound_none.png" Type="RCDATA" ResourceName="SOUND_NONE"/>
+        <Resource_831 FileName="icons\spellcheck.png" Type="RCDATA" ResourceName="SPELLCHECK"/>
+        <Resource_832 FileName="icons\sport_8ball.png" Type="RCDATA" ResourceName="SPORT_8BALL"/>
+        <Resource_833 FileName="icons\sport_basketball.png" Type="RCDATA" ResourceName="SPORT_BASKETBALL"/>
+        <Resource_834 FileName="icons\sport_football.png" Type="RCDATA" ResourceName="SPORT_FOOTBALL"/>
+        <Resource_835 FileName="icons\sport_golf.png" Type="RCDATA" ResourceName="SPORT_GOLF"/>
+        <Resource_836 FileName="icons\sport_raquet.png" Type="RCDATA" ResourceName="SPORT_RAQUET"/>
+        <Resource_837 FileName="icons\sport_shuttlecock.png" Type="RCDATA" ResourceName="SPORT_SHUTTLECOCK"/>
+        <Resource_838 FileName="icons\sport_soccer.png" Type="RCDATA" ResourceName="SPORT_SOCCER"/>
+        <Resource_839 FileName="icons\sport_tennis.png" Type="RCDATA" ResourceName="SPORT_TENNIS"/>
+        <Resource_840 FileName="icons\star.png" Type="RCDATA" ResourceName="STAR"/>
+        <Resource_841 FileName="icons\status_away.png" Type="RCDATA" ResourceName="STATUS_AWAY"/>
+        <Resource_842 FileName="icons\status_busy.png" Type="RCDATA" ResourceName="STATUS_BUSY"/>
+        <Resource_843 FileName="icons\status_offline.png" Type="RCDATA" ResourceName="STATUS_OFFLINE"/>
+        <Resource_844 FileName="icons\status_online.png" Type="RCDATA" ResourceName="STATUS_ONLINE"/>
+        <Resource_845 FileName="icons\stop.png" Type="RCDATA" ResourceName="STOP"/>
+        <Resource_846 FileName="icons\style.png" Type="RCDATA" ResourceName="STYLE"/>
+        <Resource_847 FileName="icons\style_add.png" Type="RCDATA" ResourceName="STYLE_ADD"/>
+        <Resource_848 FileName="icons\style_delete.png" Type="RCDATA" ResourceName="STYLE_DELETE"/>
+        <Resource_849 FileName="icons\style_edit.png" Type="RCDATA" ResourceName="STYLE_EDIT"/>
+        <Resource_850 FileName="icons\style_go.png" Type="RCDATA" ResourceName="STYLE_GO"/>
+        <Resource_851 FileName="icons\sum.png" Type="RCDATA" ResourceName="SUM"/>
+        <Resource_852 FileName="icons\tab.png" Type="RCDATA" ResourceName="TAB"/>
+        <Resource_853 FileName="icons\tab_add.png" Type="RCDATA" ResourceName="TAB_ADD"/>
+        <Resource_854 FileName="icons\tab_delete.png" Type="RCDATA" ResourceName="TAB_DELETE"/>
+        <Resource_855 FileName="icons\tab_edit.png" Type="RCDATA" ResourceName="TAB_EDIT"/>
+        <Resource_856 FileName="icons\tab_go.png" Type="RCDATA" ResourceName="TAB_GO"/>
+        <Resource_857 FileName="icons\table.png" Type="RCDATA" ResourceName="TABLE"/>
+        <Resource_858 FileName="icons\table_add.png" Type="RCDATA" ResourceName="TABLE_ADD"/>
+        <Resource_859 FileName="icons\table_delete.png" Type="RCDATA" ResourceName="TABLE_DELETE"/>
+        <Resource_860 FileName="icons\table_edit.png" Type="RCDATA" ResourceName="TABLE_EDIT"/>
+        <Resource_861 FileName="icons\table_error.png" Type="RCDATA" ResourceName="TABLE_ERROR"/>
+        <Resource_862 FileName="icons\table_gear.png" Type="RCDATA" ResourceName="TABLE_GEAR"/>
+        <Resource_863 FileName="icons\table_go.png" Type="RCDATA" ResourceName="TABLE_GO"/>
+        <Resource_864 FileName="icons\table_key.png" Type="RCDATA" ResourceName="TABLE_KEY"/>
+        <Resource_865 FileName="icons\table_lightning.png" Type="RCDATA" ResourceName="TABLE_LIGHTNING"/>
+        <Resource_866 FileName="icons\table_link.png" Type="RCDATA" ResourceName="TABLE_LINK"/>
+        <Resource_867 FileName="icons\table_multiple.png" Type="RCDATA" ResourceName="TABLE_MULTIPLE"/>
+        <Resource_868 FileName="icons\table_refresh.png" Type="RCDATA" ResourceName="TABLE_REFRESH"/>
+        <Resource_869 FileName="icons\table_relationship.png" Type="RCDATA" ResourceName="TABLE_RELATIONSHIP"/>
+        <Resource_870 FileName="icons\table_row_delete.png" Type="RCDATA" ResourceName="TABLE_ROW_DELETE"/>
+        <Resource_871 FileName="icons\table_row_insert.png" Type="RCDATA" ResourceName="TABLE_ROW_INSERT"/>
+        <Resource_872 FileName="icons\table_save.png" Type="RCDATA" ResourceName="TABLE_SAVE"/>
+        <Resource_873 FileName="icons\table_sort.png" Type="RCDATA" ResourceName="TABLE_SORT"/>
+        <Resource_874 FileName="icons\tag.png" Type="RCDATA" ResourceName="TAG"/>
+        <Resource_875 FileName="icons\tag_blue.png" Type="RCDATA" ResourceName="TAG_BLUE"/>
+        <Resource_876 FileName="icons\tag_blue_add.png" Type="RCDATA" ResourceName="TAG_BLUE_ADD"/>
+        <Resource_877 FileName="icons\tag_blue_delete.png" Type="RCDATA" ResourceName="TAG_BLUE_DELETE"/>
+        <Resource_878 FileName="icons\tag_blue_edit.png" Type="RCDATA" ResourceName="TAG_BLUE_EDIT"/>
+        <Resource_879 FileName="icons\tag_green.png" Type="RCDATA" ResourceName="TAG_GREEN"/>
+        <Resource_880 FileName="icons\tag_orange.png" Type="RCDATA" ResourceName="TAG_ORANGE"/>
+        <Resource_881 FileName="icons\tag_pink.png" Type="RCDATA" ResourceName="TAG_PINK"/>
+        <Resource_882 FileName="icons\tag_purple.png" Type="RCDATA" ResourceName="TAG_PURPLE"/>
+        <Resource_883 FileName="icons\tag_red.png" Type="RCDATA" ResourceName="TAG_RED"/>
+        <Resource_884 FileName="icons\tag_yellow.png" Type="RCDATA" ResourceName="TAG_YELLOW"/>
+        <Resource_885 FileName="icons\telephone.png" Type="RCDATA" ResourceName="TELEPHONE"/>
+        <Resource_886 FileName="icons\telephone_add.png" Type="RCDATA" ResourceName="TELEPHONE_ADD"/>
+        <Resource_887 FileName="icons\telephone_delete.png" Type="RCDATA" ResourceName="TELEPHONE_DELETE"/>
+        <Resource_888 FileName="icons\telephone_edit.png" Type="RCDATA" ResourceName="TELEPHONE_EDIT"/>
+        <Resource_889 FileName="icons\telephone_error.png" Type="RCDATA" ResourceName="TELEPHONE_ERROR"/>
+        <Resource_890 FileName="icons\telephone_go.png" Type="RCDATA" ResourceName="TELEPHONE_GO"/>
+        <Resource_891 FileName="icons\telephone_key.png" Type="RCDATA" ResourceName="TELEPHONE_KEY"/>
+        <Resource_892 FileName="icons\telephone_link.png" Type="RCDATA" ResourceName="TELEPHONE_LINK"/>
+        <Resource_893 FileName="icons\television.png" Type="RCDATA" ResourceName="TELEVISION"/>
+        <Resource_894 FileName="icons\television_add.png" Type="RCDATA" ResourceName="TELEVISION_ADD"/>
+        <Resource_895 FileName="icons\television_delete.png" Type="RCDATA" ResourceName="TELEVISION_DELETE"/>
+        <Resource_896 FileName="icons\text_align_center.png" Type="RCDATA" ResourceName="TEXT_ALIGN_CENTER"/>
+        <Resource_897 FileName="icons\text_align_justify.png" Type="RCDATA" ResourceName="TEXT_ALIGN_JUSTIFY"/>
+        <Resource_898 FileName="icons\text_align_left.png" Type="RCDATA" ResourceName="TEXT_ALIGN_LEFT"/>
+        <Resource_899 FileName="icons\text_align_right.png" Type="RCDATA" ResourceName="TEXT_ALIGN_RIGHT"/>
+        <Resource_900 FileName="icons\text_allcaps.png" Type="RCDATA" ResourceName="TEXT_ALLCAPS"/>
+        <Resource_901 FileName="icons\text_bold.png" Type="RCDATA" ResourceName="TEXT_BOLD"/>
+        <Resource_902 FileName="icons\text_columns.png" Type="RCDATA" ResourceName="TEXT_COLUMNS"/>
+        <Resource_903 FileName="icons\text_dropcaps.png" Type="RCDATA" ResourceName="TEXT_DROPCAPS"/>
+        <Resource_904 FileName="icons\text_heading_1.png" Type="RCDATA" ResourceName="TEXT_HEADING_1"/>
+        <Resource_905 FileName="icons\text_heading_2.png" Type="RCDATA" ResourceName="TEXT_HEADING_2"/>
+        <Resource_906 FileName="icons\text_heading_3.png" Type="RCDATA" ResourceName="TEXT_HEADING_3"/>
+        <Resource_907 FileName="icons\text_heading_4.png" Type="RCDATA" ResourceName="TEXT_HEADING_4"/>
+        <Resource_908 FileName="icons\text_heading_5.png" Type="RCDATA" ResourceName="TEXT_HEADING_5"/>
+        <Resource_909 FileName="icons\text_heading_6.png" Type="RCDATA" ResourceName="TEXT_HEADING_6"/>
+        <Resource_910 FileName="icons\text_horizontalrule.png" Type="RCDATA" ResourceName="TEXT_HORIZONTALRULE"/>
+        <Resource_911 FileName="icons\text_indent.png" Type="RCDATA" ResourceName="TEXT_INDENT"/>
+        <Resource_912 FileName="icons\text_indent_remove.png" Type="RCDATA" ResourceName="TEXT_INDENT_REMOVE"/>
+        <Resource_913 FileName="icons\text_italic.png" Type="RCDATA" ResourceName="TEXT_ITALIC"/>
+        <Resource_914 FileName="icons\text_kerning.png" Type="RCDATA" ResourceName="TEXT_KERNING"/>
+        <Resource_915 FileName="icons\text_letter_omega.png" Type="RCDATA" ResourceName="TEXT_LETTER_OMEGA"/>
+        <Resource_916 FileName="icons\text_letterspacing.png" Type="RCDATA" ResourceName="TEXT_LETTERSPACING"/>
+        <Resource_917 FileName="icons\text_linespacing.png" Type="RCDATA" ResourceName="TEXT_LINESPACING"/>
+        <Resource_918 FileName="icons\text_list_bullets.png" Type="RCDATA" ResourceName="TEXT_LIST_BULLETS"/>
+        <Resource_919 FileName="icons\text_list_numbers.png" Type="RCDATA" ResourceName="TEXT_LIST_NUMBERS"/>
+        <Resource_920 FileName="icons\text_lowercase.png" Type="RCDATA" ResourceName="TEXT_LOWERCASE"/>
+        <Resource_921 FileName="icons\text_padding_bottom.png" Type="RCDATA" ResourceName="TEXT_PADDING_BOTTOM"/>
+        <Resource_922 FileName="icons\text_padding_left.png" Type="RCDATA" ResourceName="TEXT_PADDING_LEFT"/>
+        <Resource_923 FileName="icons\text_padding_right.png" Type="RCDATA" ResourceName="TEXT_PADDING_RIGHT"/>
+        <Resource_924 FileName="icons\text_padding_top.png" Type="RCDATA" ResourceName="TEXT_PADDING_TOP"/>
+        <Resource_925 FileName="icons\text_replace.png" Type="RCDATA" ResourceName="TEXT_REPLACE"/>
+        <Resource_926 FileName="icons\text_signature.png" Type="RCDATA" ResourceName="TEXT_SIGNATURE"/>
+        <Resource_927 FileName="icons\text_smallcaps.png" Type="RCDATA" ResourceName="TEXT_SMALLCAPS"/>
+        <Resource_928 FileName="icons\text_strikethrough.png" Type="RCDATA" ResourceName="TEXT_STRIKETHROUGH"/>
+        <Resource_929 FileName="icons\text_subscript.png" Type="RCDATA" ResourceName="TEXT_SUBSCRIPT"/>
+        <Resource_930 FileName="icons\text_superscript.png" Type="RCDATA" ResourceName="TEXT_SUPERSCRIPT"/>
+        <Resource_931 FileName="icons\text_underline.png" Type="RCDATA" ResourceName="TEXT_UNDERLINE"/>
+        <Resource_932 FileName="icons\text_uppercase.png" Type="RCDATA" ResourceName="TEXT_UPPERCASE"/>
+        <Resource_933 FileName="icons\textfield.png" Type="RCDATA" ResourceName="TEXTFIELD"/>
+        <Resource_934 FileName="icons\textfield_add.png" Type="RCDATA" ResourceName="TEXTFIELD_ADD"/>
+        <Resource_935 FileName="icons\textfield_delete.png" Type="RCDATA" ResourceName="TEXTFIELD_DELETE"/>
+        <Resource_936 FileName="icons\textfield_key.png" Type="RCDATA" ResourceName="TEXTFIELD_KEY"/>
+        <Resource_937 FileName="icons\textfield_rename.png" Type="RCDATA" ResourceName="TEXTFIELD_RENAME"/>
+        <Resource_938 FileName="icons\thumb_down.png" Type="RCDATA" ResourceName="THUMB_DOWN"/>
+        <Resource_939 FileName="icons\thumb_up.png" Type="RCDATA" ResourceName="THUMB_UP"/>
+        <Resource_940 FileName="icons\tick.png" Type="RCDATA" ResourceName="TICK"/>
+        <Resource_941 FileName="icons\time.png" Type="RCDATA" ResourceName="TIME"/>
+        <Resource_942 FileName="icons\time_add.png" Type="RCDATA" ResourceName="TIME_ADD"/>
+        <Resource_943 FileName="icons\time_delete.png" Type="RCDATA" ResourceName="TIME_DELETE"/>
+        <Resource_944 FileName="icons\time_go.png" Type="RCDATA" ResourceName="TIME_GO"/>
+        <Resource_945 FileName="icons\timeline_marker.png" Type="RCDATA" ResourceName="TIMELINE_MARKER"/>
+        <Resource_946 FileName="icons\transmit.png" Type="RCDATA" ResourceName="TRANSMIT"/>
+        <Resource_947 FileName="icons\transmit_add.png" Type="RCDATA" ResourceName="TRANSMIT_ADD"/>
+        <Resource_948 FileName="icons\transmit_blue.png" Type="RCDATA" ResourceName="TRANSMIT_BLUE"/>
+        <Resource_949 FileName="icons\transmit_delete.png" Type="RCDATA" ResourceName="TRANSMIT_DELETE"/>
+        <Resource_950 FileName="icons\transmit_edit.png" Type="RCDATA" ResourceName="TRANSMIT_EDIT"/>
+        <Resource_951 FileName="icons\transmit_error.png" Type="RCDATA" ResourceName="TRANSMIT_ERROR"/>
+        <Resource_952 FileName="icons\transmit_go.png" Type="RCDATA" ResourceName="TRANSMIT_GO"/>
+        <Resource_953 FileName="icons\tux.png" Type="RCDATA" ResourceName="TUX"/>
+        <Resource_954 FileName="icons\user.png" Type="RCDATA" ResourceName="USER"/>
+        <Resource_955 FileName="icons\user_add.png" Type="RCDATA" ResourceName="USER_ADD"/>
+        <Resource_956 FileName="icons\user_comment.png" Type="RCDATA" ResourceName="USER_COMMENT"/>
+        <Resource_957 FileName="icons\user_delete.png" Type="RCDATA" ResourceName="USER_DELETE"/>
+        <Resource_958 FileName="icons\user_edit.png" Type="RCDATA" ResourceName="USER_EDIT"/>
+        <Resource_959 FileName="icons\user_female.png" Type="RCDATA" ResourceName="USER_FEMALE"/>
+        <Resource_960 FileName="icons\user_go.png" Type="RCDATA" ResourceName="USER_GO"/>
+        <Resource_961 FileName="icons\user_gray.png" Type="RCDATA" ResourceName="USER_GRAY"/>
+        <Resource_962 FileName="icons\user_green.png" Type="RCDATA" ResourceName="USER_GREEN"/>
+        <Resource_963 FileName="icons\user_orange.png" Type="RCDATA" ResourceName="USER_ORANGE"/>
+        <Resource_964 FileName="icons\user_red.png" Type="RCDATA" ResourceName="USER_RED"/>
+        <Resource_965 FileName="icons\user_suit.png" Type="RCDATA" ResourceName="USER_SUIT"/>
+        <Resource_966 FileName="icons\vcard.png" Type="RCDATA" ResourceName="VCARD"/>
+        <Resource_967 FileName="icons\vcard_add.png" Type="RCDATA" ResourceName="VCARD_ADD"/>
+        <Resource_968 FileName="icons\vcard_delete.png" Type="RCDATA" ResourceName="VCARD_DELETE"/>
+        <Resource_969 FileName="icons\vcard_edit.png" Type="RCDATA" ResourceName="VCARD_EDIT"/>
+        <Resource_970 FileName="icons\vector.png" Type="RCDATA" ResourceName="VECTOR"/>
+        <Resource_971 FileName="icons\vector_add.png" Type="RCDATA" ResourceName="VECTOR_ADD"/>
+        <Resource_972 FileName="icons\vector_delete.png" Type="RCDATA" ResourceName="VECTOR_DELETE"/>
+        <Resource_973 FileName="icons\wand.png" Type="RCDATA" ResourceName="WAND"/>
+        <Resource_974 FileName="icons\weather_clouds.png" Type="RCDATA" ResourceName="WEATHER_CLOUDS"/>
+        <Resource_975 FileName="icons\weather_cloudy.png" Type="RCDATA" ResourceName="WEATHER_CLOUDY"/>
+        <Resource_976 FileName="icons\weather_lightning.png" Type="RCDATA" ResourceName="WEATHER_LIGHTNING"/>
+        <Resource_977 FileName="icons\weather_rain.png" Type="RCDATA" ResourceName="WEATHER_RAIN"/>
+        <Resource_978 FileName="icons\weather_snow.png" Type="RCDATA" ResourceName="WEATHER_SNOW"/>
+        <Resource_979 FileName="icons\weather_sun.png" Type="RCDATA" ResourceName="WEATHER_SUN"/>
+        <Resource_980 FileName="icons\webcam.png" Type="RCDATA" ResourceName="WEBCAM"/>
+        <Resource_981 FileName="icons\webcam_add.png" Type="RCDATA" ResourceName="WEBCAM_ADD"/>
+        <Resource_982 FileName="icons\webcam_delete.png" Type="RCDATA" ResourceName="WEBCAM_DELETE"/>
+        <Resource_983 FileName="icons\webcam_error.png" Type="RCDATA" ResourceName="WEBCAM_ERROR"/>
+        <Resource_984 FileName="icons\world.png" Type="RCDATA" ResourceName="WORLD"/>
+        <Resource_985 FileName="icons\world_add.png" Type="RCDATA" ResourceName="WORLD_ADD"/>
+        <Resource_986 FileName="icons\world_delete.png" Type="RCDATA" ResourceName="WORLD_DELETE"/>
+        <Resource_987 FileName="icons\world_edit.png" Type="RCDATA" ResourceName="WORLD_EDIT"/>
+        <Resource_988 FileName="icons\world_go.png" Type="RCDATA" ResourceName="WORLD_GO"/>
+        <Resource_989 FileName="icons\world_link.png" Type="RCDATA" ResourceName="WORLD_LINK"/>
+        <Resource_990 FileName="icons\wrench.png" Type="RCDATA" ResourceName="WRENCH"/>
+        <Resource_991 FileName="icons\wrench_orange.png" Type="RCDATA" ResourceName="WRENCH_ORANGE"/>
+        <Resource_992 FileName="icons\xhtml.png" Type="RCDATA" ResourceName="XHTML"/>
+        <Resource_993 FileName="icons\xhtml_add.png" Type="RCDATA" ResourceName="XHTML_ADD"/>
+        <Resource_994 FileName="icons\xhtml_delete.png" Type="RCDATA" ResourceName="XHTML_DELETE"/>
+        <Resource_995 FileName="icons\xhtml_go.png" Type="RCDATA" ResourceName="XHTML_GO"/>
+        <Resource_996 FileName="icons\xhtml_valid.png" Type="RCDATA" ResourceName="XHTML_VALID"/>
+        <Resource_997 FileName="icons\zoom.png" Type="RCDATA" ResourceName="ZOOM"/>
+        <Resource_998 FileName="icons\zoom_in.png" Type="RCDATA" ResourceName="ZOOM_IN"/>
+        <Resource_999 FileName="icons\zoom_out.png" Type="RCDATA" ResourceName="ZOOM_OUT"/>
+      </Resources>
+    </General>
+    <BuildModes Count="1">
+      <Item1 Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+    </PublishOptions>
+    <RunParams>
+      <local>
+        <FormatVersion Value="1"/>
+      </local>
+    </RunParams>
+    <RequiredPackages Count="4">
+      <Item1>
+        <PackageName Value="atsynedit_package"/>
+      </Item1>
+      <Item2>
+        <PackageName Value="LazControls"/>
+      </Item2>
+      <Item3>
+        <PackageName Value="SynEdit"/>
+      </Item3>
+      <Item4>
+        <PackageName Value="LCL"/>
+      </Item4>
+    </RequiredPackages>
+    <Units Count="8">
+      <Unit0>
+        <Filename Value="AlgT.lpr"/>
+        <IsPartOfProject Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="frmmain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FrmMain_"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="icons\ufrmabout.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="UfrmAbout"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="ufrmabout.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FrmAbout"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="ufrmvariabledeclaration.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FrmVariableDeclartion"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="UFrmVariableDeclaration"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="ufrmsplash.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="UFRMSplash"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="ufrmtypedeclaration.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form3"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="ufrmTypeDeclaration"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="inc\menubar.inc"/>
+        <IsPartOfProject Value="True"/>
+      </Unit7>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <Target>
+      <Filename Value="AlgT"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)"/>
+      <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+    </SearchPaths>
+    <CodeGeneration>
+      <RelocatableUnit Value="True"/>
+      <SmallerCode Value="True"/>
+    </CodeGeneration>
+    <Linking>
+      <Debugging>
+        <UseExternalDbgSyms Value="True"/>
+      </Debugging>
+      <Options>
+        <Win32>
+          <GraphicApplication Value="True"/>
+        </Win32>
+      </Options>
+    </Linking>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions Count="3">
+      <Item1>
+        <Name Value="EAbort"/>
+      </Item1>
+      <Item2>
+        <Name Value="ECodetoolError"/>
+      </Item2>
+      <Item3>
+        <Name Value="EFOpenError"/>
+      </Item3>
+    </Exceptions>
+  </Debugging>
+</CONFIG>

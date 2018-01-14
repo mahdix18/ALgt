@@ -1,0 +1,8 @@
+program mahdi;
+var x: Integer;
+var y: Integer;
+begin
+write(x+
+y);
+end;//. mahdi;
+
